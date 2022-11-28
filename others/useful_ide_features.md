@@ -20,4 +20,4 @@ to integrate with my daily `vim` workflow.
 - brackets colorizer
 - indentation guide
 
-`TODO:` Find the appropriate plugins for the each and respective feature.
+`TODO:` Find the appropriate `vim` plugins for each of the respective feature.
