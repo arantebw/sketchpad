@@ -5,7 +5,8 @@ to integrate with my daily `vim` workflow.
 
 - syntax highlighting
 - intellisense (code completion)
-- search all, classes, files, symbols, actions, git (all encopassing search tool) -> shift + shift
+- search all, classes, files, symbols, actions, git (all encompassing search
+  tool) -> shift + shift
 - find usages
 - go to definitions -> g + d
 - refactor
