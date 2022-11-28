@@ -1,6 +1,11 @@
 # sketchpad
 
-A personal collection of technical and non-technical notes.
+A personal collection of technical and non-technical -- but mostly technical --
+notes.
+
+## Computer Programming
+
+## Open-Source Software
 
 ## Web Development
 
@@ -8,6 +13,6 @@ A personal collection of technical and non-technical notes.
 - [tmux](./tmux)
 - [git](./git)
 
-## Others
+## Tech & Non-Tech Stuff
 
 - [Useful IDE Features](./others/useful_ide_features.md)
