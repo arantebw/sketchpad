@@ -5,6 +5,8 @@ notes.
 
 ## Computer Programming
 
+- [go](./langs/golang.md)
+
 ## Open-Source Software
 
 ## Web Development
