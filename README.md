@@ -19,6 +19,7 @@ notes.
 ### Vim Plugins
 
 - [ctrlp.vim](./vim-plugins/ctlp_vim.md)
+- [commentary.vim](./vim-plugins/commentary_vim.md)
 
 ## Tech & Non-Tech Stuff
 
