@@ -15,6 +15,7 @@ notes.
 - [tmux](./tmux)
 - [git](./git)
 - [nvm](./nvm)
+- [docker](./docker)
 
 ### Vim Plugins
 
