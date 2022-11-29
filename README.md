@@ -16,6 +16,10 @@ notes.
 - [git](./git)
 - [nvm](./nvm)
 
+### Vim Plugins
+
+- [ctrlp.vim](./vim-plugins/ctlp_vim.md)
+
 ## Tech & Non-Tech Stuff
 
 - [Useful IDE Features](./others/useful_ide_features.md)
