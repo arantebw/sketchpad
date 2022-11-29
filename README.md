@@ -14,6 +14,7 @@ notes.
 - [vim](./vim/)
 - [tmux](./tmux)
 - [git](./git)
+- [nvm](./nvm)
 
 ## Tech & Non-Tech Stuff
 
