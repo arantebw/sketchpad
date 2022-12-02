@@ -5,7 +5,10 @@ notes.
 
 ## Computer Programming
 
-- [go](./langs/golang.md)
+- [Python](./langs/py.md)
+- [C](./langs/c.md)
+- [JavaScript](./langs/js.md)
+- [Go](./langs/go.md)
 
 ## Open-Source Software
 
