@@ -1,4 +1,4 @@
-# golang
+# go
 
 Started learning and using the Go programming language in October 2022.
 
