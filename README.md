@@ -17,6 +17,7 @@ notes.
 - [vim](./vim/)
 - [tmux](./tmux)
 - [git](./git)
+- [npm](./npm/README.md)
 - [nvm](./nvm)
 - [docker](./docker)
 
