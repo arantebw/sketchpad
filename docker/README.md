@@ -25,3 +25,10 @@ docker run --name <container> -d -p 27017:27017 mongo:4.2.23
 ```
 Run a MongoDB server as `<container>` with exposed port using the
 `mongo:4.2.23` image.
+
+## docker compose
+
+```
+docker compose up
+```
+Run and/or build a `docker-compose.yml` file.

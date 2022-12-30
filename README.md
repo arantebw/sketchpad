@@ -18,6 +18,7 @@ notes.
 - [tmux](./tmux)
 - [git](./git)
 - [npm](./npm/README.md)
+- [npx](./npx/README.md)
 - [nvm](./nvm)
 - [docker](./docker)
 
