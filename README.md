@@ -14,6 +14,10 @@ notes.
 
 ## Web Development
 
+- [CSS `sr-only` Class](./css/README.md#sr-only)
+
+### Tools
+
 - [vim](./vim/)
 - [tmux](./tmux)
 - [git](./git)
