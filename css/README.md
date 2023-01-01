@@ -1,4 +1,4 @@
-# CSS
+# css
 
 ## <span id="sr-only">CSS `sr-only` Class</span>
 
