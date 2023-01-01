@@ -18,13 +18,13 @@ notes.
 
 ### Tools
 
-- [vim](./vim/)
-- [tmux](./tmux)
-- [git](./git)
+- [vim](./vim/README.md)
+- [tmux](./tmux/README.md)
+- [git](./git/README.md)
 - [npm](./npm/README.md)
 - [npx](./npx/README.md)
-- [nvm](./nvm)
-- [docker](./docker)
+- [nvm](./nvm/README.md)
+- [docker](./docker/README.md)
 
 ### Vim Plugins
 
