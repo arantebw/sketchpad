@@ -6,6 +6,11 @@ docker version
 Check the details of the Docker tools installed in your machine.
 
 ```
+docker run hello-world
+```
+Download/execute the `hello-world` Docker image.
+
+```
 docker context ls
 ```
 List all of the available Docker *context* on a host machine.
