@@ -16,7 +16,7 @@ notes.
 
 - [CSS `sr-only` Class](./css/README.md#sr-only)
 
-### Tools
+### CLI Tools
 
 - [vim](./vim/README.md)
 - [tmux](./tmux/README.md)
