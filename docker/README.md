@@ -46,3 +46,51 @@ docker run hello-world
 ```
 Download/execute the `hello-world` Docker image.
 
+```
+docker run busybox echo hi there
+```
+
+```
+docker ps
+```
+List all running containers.
+
+```
+docker ps --all
+```
+List all running/stopped containers.
+
+```
+docker run busybox ping 8.8.4.4
+```
+
+```
+docker run = docker create + docker start
+```
+
+```
+docker create <image_name>
+docker start -a <container_id>
+```
+`docker run` is the shorthand version of the commands above.
+
+```
+docker system prune
+```
+Remove all stopped containers, build cache, networks, and volumes.
+
+```
+docker rm <container_id>
+```
+Remove a specific Docker container.
+
+```
+docker logs <container_id>
+```
+Display all the container logs.
+
+```
+docker stop <container_id>
+docker kill <container_id>
+```
+Stop or kill a running *detached* container.
