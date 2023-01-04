@@ -34,3 +34,4 @@ notes.
 ## Tech & Non-Tech Stuff
 
 - [Useful IDE Features](./others/useful_ide_features.md)
+- [Japanese Wisdom](./others/japanese_wisdom.md)
