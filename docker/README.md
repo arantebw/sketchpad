@@ -146,7 +146,7 @@ npm run build
 ```
 
 ```
-docker build -f <dockerfile>
+docker build -f <dockerfile> .
 ```
 
 ```
