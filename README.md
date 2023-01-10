@@ -15,6 +15,7 @@ notes.
 ## Web Development
 
 - [CSS `sr-only` Class](./css/README.md#sr-only)
+- [DevTools Breakpoints](./css/README.md#break-points)
 
 ### CLI Tools
 
