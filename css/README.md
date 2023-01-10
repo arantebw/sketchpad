@@ -1,6 +1,6 @@
-# css
+# CSS
 
-## <span id="sr-only">CSS `sr-only` Class</span>
+## <span id="sr-only">`sr-only` Class</span>
 
 ```css
 .sr-only {
