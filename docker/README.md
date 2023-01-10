@@ -36,6 +36,8 @@ Run and/or build a `docker-compose.yml` file.
 
 ## Docker and Kubernetes: The Complete Guide
 
+### Day 1
+
 ```
 docker version
 ```
@@ -94,3 +96,59 @@ docker stop <container_id>
 docker kill <container_id>
 ```
 Stop or kill a running *detached* container.
+
+### Day 3
+
+```
+docker build -t <dockerhub_username>/<app_name>:<version> .
+```
+
+```
+docker run -p <client>:<server> <dockerhub_username>/<app_name>
+```
+
+#### Docker Compose
+
+```
+docker compose up
+```
+
+```
+docker compose up --build
+```
+
+```
+docker compose stop
+```
+
+```
+docker compose down
+```
+
+Restart Policies:
+- "no"
+- always
+- on-failure
+- unless-stopped
+
+```
+docker compose ps
+```
+
+```
+npx create-react-app <project>
+```
+
+```
+npm run start
+npm run test
+npm run build
+```
+
+```
+docker build -f <dockerfile> .
+```
+
+```
+docker run -p <client>:<server> -v /usr/app/node_modules -v $(pwd):/usr/app <image_id>
+```
