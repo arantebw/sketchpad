@@ -6,6 +6,7 @@ notes.
 ## Computer Programming
 
 - [Python](./langs/py.md)
+- [C++](./langs/cpp.md)
 - [C](./langs/c.md)
 - [JavaScript](./langs/js.md)
 - [Go](./langs/go.md)
