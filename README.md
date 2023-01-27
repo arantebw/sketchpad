@@ -26,6 +26,7 @@ notes.
 - [npx](./npx/README.md)
 - [nvm](./nvm/README.md)
 - [docker](./docker/README.md)
+- [find](./find/README.md)
 
 ### Vim Plugins
 
