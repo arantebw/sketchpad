@@ -5,11 +5,14 @@ notes.
 
 ## Computer Programming
 
+- [JavaScript](./langs/js.md)
+- [Go](./langs/go.md)
+
+### The Core
+
 - [Python](./langs/py.md)
 - [C++](./langs/cpp.md)
 - [C](./langs/c.md)
-- [JavaScript](./langs/js.md)
-- [Go](./langs/go.md)
 
 ## Open-Source Software
 
