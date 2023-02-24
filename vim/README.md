@@ -1,5 +1,25 @@
 # vim
 
+## search
+
+```
+:noh
+```
+
+Clears the screen of highlighting the last search.
+
+```
+/
+```
+
+Forwardly search for the keyword that matched.
+
+```
+?
+```
+
+Backwardly search for the keyword that matched.
+
 ## window
 
 ```
