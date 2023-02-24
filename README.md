@@ -5,17 +5,21 @@ notes.
 
 ## Computer Programming
 
+- [JavaScript](./langs/js.md)
+- [Go](./langs/go.md)
+
+### The Core
+
 - [Python](./langs/py.md)
 - [C++](./langs/cpp.md)
 - [C](./langs/c.md)
-- [JavaScript](./langs/js.md)
-- [Go](./langs/go.md)
 
 ## Open-Source Software
 
 ## Web Development
 
-- [CSS `sr-only` Class](./css/README.md#sr-only)
+- [`sr-only` Class](./css/README.md#sr-only)
+- [DevTools Breakpoints](./css/README.md#break-points)
 
 ### CLI Tools
 
@@ -26,6 +30,7 @@ notes.
 - [npx](./npx/README.md)
 - [nvm](./nvm/README.md)
 - [docker](./docker/README.md)
+- [find](./find/README.md)
 
 ### Vim Plugins
 
