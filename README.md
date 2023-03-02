@@ -1,22 +1,28 @@
-# sketchpad
+# Sketchpad
 
-A personal collection of technical and non-technical -- but mostly technical --
-notes.
+A personal collection of technical and non-technical notes.
 
 ## Computer Programming
 
-- [JavaScript](./langs/js.md)
-- [Go](./langs/go.md)
-
-### The Core
+### The Core Hacking Languages
 
 - [Python](./langs/py.md)
 - [C++](./langs/cpp.md)
 - [C](./langs/c.md)
+- Java
+- Lisp
+- Perl
 
-## Open-Source Software
+### Full-Stack Web Development Languages
 
-## Web Development
+- [JavaScript](./langs/js.md)
+- [Go](./langs/go.md)
+
+## Open-Source Project Contributions
+
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Aarantebw+is%3Aclosed)
+
+## Full-Stack Web Development
 
 - [`sr-only` Class](./css/README.md#sr-only)
 - [DevTools Breakpoints](./css/README.md#break-points)
