@@ -29,6 +29,7 @@ notes.
 - [npm](./npm/README.md)
 - [npx](./npx/README.md)
 - [nvm](./nvm/README.md)
+- [pnpm](./pnpm/README.md)
 - [docker](./docker/README.md)
 - [find](./find/README.md)
 
