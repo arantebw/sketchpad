@@ -23,6 +23,7 @@ notes.
 
 ### CLI Tools
 
+- [shell](./shell/README.md)
 - [vim](./vim/README.md)
 - [tmux](./tmux/README.md)
 - [git](./git/README.md)
@@ -31,7 +32,6 @@ notes.
 - [nvm](./nvm/README.md)
 - [pnpm](./pnpm/README.md)
 - [docker](./docker/README.md)
-- [find](./find/README.md)
 
 ### Vim Plugins
 
