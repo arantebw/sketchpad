@@ -1,5 +1,14 @@
 # git
 
+## Deleted a remote main branch, then sync the new local main branch.
+
+```
+git branch -m <backup> main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+```
+
 ## checkout
 
 ```
