@@ -1,5 +1,13 @@
 # shell
 
+## lsof (list of files)
+
+```
+lsof -i :<port_number>
+```
+
+List the process currently running and using the `<port_number>`.
+
 ## hostname
 
 ```
