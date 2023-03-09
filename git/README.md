@@ -9,6 +9,20 @@ git branch -u origin/main main
 git remote set-head origin -a
 ```
 
+## clean
+
+```
+git clean -n
+```
+
+Display all of the file(s) to be removed from the working tree.
+
+```
+git clean -f
+```
+
+Remove all of the regular untracked file(s) from the working tree.
+
 ## checkout
 
 ```
