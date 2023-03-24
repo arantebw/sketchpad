@@ -2,13 +2,13 @@
 
 ## install
 
-```
+```bash
 pnpm install
 ```
 
 Download and install dependencies
 
-```
+```bash
 pnpm install <package> --filter <workspace>
 ```
 
