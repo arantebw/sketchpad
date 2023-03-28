@@ -31,6 +31,7 @@ A personal collection of technical and non-technical notes.
 
 - [shell](./shell/README.md)
 - [vim](./vim/README.md)
+- [neovim](./neovim/README.md)
 - [tmux](./tmux/README.md)
 - [git](./git/README.md)
 - [npm](./npm/README.md)
