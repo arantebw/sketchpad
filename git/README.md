@@ -41,6 +41,13 @@ head, and will recommend to create a new branch.
 ## switch
 
 ```
+git switch -c <branch> <remote>/<branch>
+```
+
+Switch to a remote branch and track it locally.
+
+
+```
 git switch -
 ```
 
