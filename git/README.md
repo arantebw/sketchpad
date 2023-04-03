@@ -56,6 +56,25 @@ Switch the active branch to the previously active branch.
 ## stash
 
 ```
+git stash --include-untracked
+```
+
+Or,
+
+```
+git stash -u
+```
+
+Undo and stash away the changes to tracked and untracked files.
+
+```
+git stash list
+```
+
+Display a list of all the stashed changes.
+
+
+```
 git stash push -m "description"
 ```
 
