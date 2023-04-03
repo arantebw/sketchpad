@@ -49,3 +49,4 @@ A personal collection of technical and non-technical notes.
 
 - [Useful IDE Features](./others/useful_ide_features.md)
 - [Japanese Wisdom](./others/japanese_wisdom.md)
+- [My Neovim Setup](./others/my_neovim_setup.md)
