@@ -1,5 +1,19 @@
 # vim
 
+## tabs
+
+```
+:tabs
+```
+
+Lists all of the open tabs on a page.
+
+```
+:tabclose
+```
+
+Closes the current tab.
+
 ## search
 
 ```
