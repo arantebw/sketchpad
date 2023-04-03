@@ -4,7 +4,10 @@
 
 - [x] LSP for JavaScript/TypeScript
 - [ ] LSP for HTML & CSS
-- [ ] keybinding to create single or block comment
-- [ ] code completion
-- [ ] better syntax highlighting on all languages
-- [ ] night owl color theme
+- [ ] Keybinding to create single or block comment
+- [x] Code completion
+- [x] Better syntax highlighting on all languages
+- [ ] Night owl color theme
+- [ ] Indent guides
+- [ ] Auto-formatting
+- [x] Bracket pair colorizer
