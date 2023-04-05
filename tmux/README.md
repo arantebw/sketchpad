@@ -1,5 +1,28 @@
 # tmux
 
+## swap-window
+
+```bash
+tmux swap-window -t <target>
+```
+Swaps the current active window and the `<target>` window.
+
+## buffer commands
+
+```
+C-b + -
+```
+
+Splits the current pane horizontally. This keybinding is a remap of the
+original `C-b + "` keybinding.
+
+```
+C-b + |
+```
+
+Splits the current pane vertically. This keybinding is a remap of the original
+`C-b + %` keybinding.
+
 ```
 C-b + C-r
 ```
