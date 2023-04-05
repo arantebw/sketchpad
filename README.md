@@ -27,6 +27,16 @@ A personal collection of technical and non-technical notes.
 - [`sr-only` Class](./css/README.md#sr-only)
 - [DevTools Breakpoints](./css/README.md#break-points)
 
+### CLI Commands
+
+#### find
+
+```bash
+$ find <location> -type d -name "filename"
+```
+
+Find a `"filename"` directory at `<location>` directory.
+
 ### CLI Tools
 
 - [shell](./shell/README.md)
