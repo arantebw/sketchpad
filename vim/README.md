@@ -1,5 +1,13 @@
 # vim
 
+## folds
+
+```
+zr
+```
+
+Uncollapse the folded sections of a file.
+
 ## tabs
 
 ```
