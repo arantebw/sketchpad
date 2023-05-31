@@ -29,13 +29,21 @@ A personal collection of technical and non-technical notes.
 
 ### CLI Commands
 
+#### prettier
+
+Format all of the JavaScript files in the current directory.
+
+```bash
+$ prettier --write "**/*.js"
+```
+
 #### find
+
+Find a `"filename"` directory at `<location>` directory.
 
 ```bash
 $ find <location> -type d -name "filename"
 ```
-
-Find a `"filename"` directory at `<location>` directory.
 
 ### CLI Tools
 
