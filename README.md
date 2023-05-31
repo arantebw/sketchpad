@@ -48,15 +48,22 @@ $ find <location> -type d -name "filename"
 ### CLI Tools
 
 - [shell](./shell/README.md)
-- [vim](./vim/README.md)
-- [neovim](./neovim/README.md)
 - [tmux](./tmux/README.md)
 - [git](./git/README.md)
+- [nvm](./nvm/README.md)
+- [docker](./docker/README.md)
+
+#### Text Editors
+
+- [vim](./vim/README.md)
+- [neovim](./neovim/README.md)
+
+#### Package Managers
+
 - [npm](./npm/README.md)
 - [npx](./npx/README.md)
-- [nvm](./nvm/README.md)
+- [yarn](./yarn/README.md)
 - [pnpm](./pnpm/README.md)
-- [docker](./docker/README.md)
 
 ### Vim Plugins
 
