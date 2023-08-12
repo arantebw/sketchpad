@@ -1,5 +1,17 @@
 # yarn
 
+Check the current version of a Next.js project being used.
+
+```bash
+yarn list next
+```
+
+Check the current version of Webpack of a Next.js project being used.
+
+```bash
+yarn list webpack
+```
+
 Install a module as a production dependency.
 
 ```bash
