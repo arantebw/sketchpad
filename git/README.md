@@ -102,8 +102,15 @@ Download all of the commits from `<remote>`, excluding deleted remote branch.
 
 ## reset
 
+Delete a certain number of commits from the top and then push it to the remote
+repo.
+
+```bash
+git reset --hard HEAD~<number_of_commits>
+```
+
+Align the local branch with `remote/branch` and remove all dangling changes.
+
 ```
 git reset --hard remote/branch
 ```
-
-Align the local branch with `remote/branch` and remote all dangling changes.
