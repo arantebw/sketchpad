@@ -107,6 +107,7 @@ repo.
 
 ```bash
 git reset --hard HEAD~<number_of_commits>
+git push <remote> <branch> --force
 ```
 
 Align the local branch with `remote/branch` and remove all dangling changes.
