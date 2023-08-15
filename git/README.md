@@ -1,6 +1,14 @@
 # git
 
-## Deleted a remote main branch, then sync the new local main branch.
+## branch
+
+Set a local branch to track a remote branch.
+
+```bash
+git branch --set-upstream-to=origin/remote_branch local_branch
+```
+
+Deleted a remote main branch, then sync the new local main branch.
 
 ```
 git branch -m <backup> main
