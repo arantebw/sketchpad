@@ -26,6 +26,7 @@ A personal collection of technical and non-technical notes.
 
 - [`sr-only` Class](./css/README.md#sr-only)
 - [DevTools Breakpoints](./css/README.md#break-points)
+- [Chromium/Chrome](./chrome/README.md)
 
 ### CLI Commands
 
