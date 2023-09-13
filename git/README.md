@@ -123,3 +123,11 @@ Align the local branch with `remote/branch` and remove all dangling changes.
 ```
 git reset --hard remote/branch
 ```
+
+## rm
+
+Stop tracking a file and remove it from the working directory.
+
+```bash
+git rm file.name
+```
