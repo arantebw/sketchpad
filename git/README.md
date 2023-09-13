@@ -131,3 +131,11 @@ Stop tracking a file and remove it from the working directory.
 ```bash
 git rm file.name
 ```
+
+## rebase
+
+Squash a certain number of commits.
+
+```bash
+git rebase -i HEAD~<number_of_commits>
+```
