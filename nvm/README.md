@@ -1,5 +1,15 @@
 # nvm
 
+## alias
+
+Set the default version.
+
+```bash
+nvm alias default <version>
+# e.g.
+nvm alias default 18
+```
+
 ```
 nvm ls
 ```
