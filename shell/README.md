@@ -1,31 +1,31 @@
 # shell
 
-## lsof (list of files)
+Check if `prettierd` is running.
 
-```
-lsof -i :<port_number>
+```bash
+ps aux | grep prettierd
 ```
 
 List the process currently running and using the `<port_number>`.
 
-## hostname
-
-```
-hostname -I
+```bash
+lsof -i :<port_number>
 ```
 
 Returns the IP address of the host machine.
+
+```bash
+hostname -I
+```
+
+Returns the computer name of the host machine.
 
 ```
 hostname
 ```
 
-Returns the computer name of the host machine.
+Find `<dir_name>` directory in the `.` path.
 
-## find
-
-```
+```bash
 find . -name <dir_name> -type d
 ```
-
-Find `<dir_name>` directory in the `.` path.
