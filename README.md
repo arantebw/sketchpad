@@ -28,24 +28,6 @@ A personal collection of technical and non-technical notes.
 - [DevTools Breakpoints](./css/README.md#break-points)
 - [Chromium/Chrome](./chrome/README.md)
 
-### CLI Commands
-
-#### prettier
-
-Format all of the JavaScript files in the current directory.
-
-```bash
-$ prettier --write "**/*.js"
-```
-
-#### find
-
-Find a `"filename"` directory at `<location>` directory.
-
-```bash
-$ find <location> -type d -name "filename"
-```
-
 ### CLI Tools
 
 - [shell](./shell/README.md)
