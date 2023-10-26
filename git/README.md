@@ -17,6 +17,12 @@ git branch -u origin/main main
 git remote set-head origin -a
 ```
 
+Delete all local branch(es) except the `main` branch.
+
+```bash
+git branch | grep -v 'main' | xargs git branch -D
+```
+
 ## clean
 
 ```
