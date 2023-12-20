@@ -35,6 +35,7 @@ A personal collection of technical and non-technical notes.
 - [git](./git/README.md)
 - [nvm](./nvm/README.md)
 - [docker](./docker/README.md)
+- [frontastic](./frontastic/)
 
 #### Text Editors
 
