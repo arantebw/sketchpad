@@ -36,6 +36,7 @@ A personal collection of technical and non-technical notes.
 - [nvm](./nvm/README.md)
 - [docker](./docker/README.md)
 - [frontastic](./frontastic/)
+- [systemctl](./systemctl/)
 
 #### Text Editors
 
