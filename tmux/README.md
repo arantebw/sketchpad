@@ -1,5 +1,13 @@
 # tmux
 
+## move-window
+
+Move the `<window_index>` window to `<session_name>` session.
+
+```bash
+tmux move-window -s <session_name>:<window_index>
+```
+
 ## swap-window
 
 ```bash
