@@ -1,5 +1,13 @@
 # tmux
 
+## kill-server
+
+It kills the current tmux server.
+
+```bash
+tmux kill-server
+```
+
 ## move-window
 
 Move the `<window_index>` window to `<session_name>` session.
