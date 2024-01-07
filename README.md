@@ -30,13 +30,14 @@ A personal collection of technical and non-technical notes.
 
 ### CLI Tools
 
-- [shell](./shell/README.md)
-- [tmux](./tmux/README.md)
+- [docker](./docker/README.md)
+- [find](./find/)
+- [frontastic](./frontastic/)
 - [git](./git/README.md)
 - [nvm](./nvm/README.md)
-- [docker](./docker/README.md)
-- [frontastic](./frontastic/)
+- [shell](./shell/README.md)
 - [systemctl](./systemctl/)
+- [tmux](./tmux/README.md)
 
 #### Text Editors
 
