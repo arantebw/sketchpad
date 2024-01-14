@@ -26,7 +26,8 @@ A personal collection of technical and non-technical notes.
 
 ### Useful Libraries
 
-- [react-cookie](https://www.npmjs.com/package/react-cookie)
+- [usehooks-ts](https://github.com/juliencrn/usehooks-ts)
+- [react-cookie](https://github.com/bendotcodes/cookies)
 
 ## Full-Stack Web Development
 
