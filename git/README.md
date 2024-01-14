@@ -116,6 +116,12 @@ Download all of the commits from `<remote>`, excluding deleted remote branch.
 
 ## reset
 
+Delete the last commit but keep the changes in the working directory.
+
+```bash
+git reset --soft HEAD^
+```
+
 Delete a certain number of commits from the top and then push it to the remote
 repo.
 
