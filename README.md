@@ -20,7 +20,13 @@ A personal collection of technical and non-technical notes.
 
 ## Open-Source Project Contributions
 
+### Interesting Projects
+
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Aarantebw+is%3Aclosed)
+
+### Useful Libraries
+
+- [react-cookie](https://www.npmjs.com/package/react-cookie)
 
 ## Full-Stack Web Development
 
