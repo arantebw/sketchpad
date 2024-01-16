@@ -1,5 +1,23 @@
 # vim
 
+## editing
+
+Comment/uncomment multiple lines of text.
+
+- `Ctrl` + `v` to enable visual block mode
+- `j` or `k` to the number of lines
+
+### To Uncomment
+
+- `x` to delete
+- `Esc` to complete
+
+### To Comment
+
+- `Shift` + `i` to enable insert mode
+- Insert the comment's pattern
+- `Esc` to complete
+
 ## folds
 
 ```
