@@ -1,5 +1,9 @@
 # tmux
 
+Shuffle between layouts.
+
+`Ctrl` + `b` + `Space`
+
 ## kill-server
 
 It kills the current tmux server.
