@@ -1,5 +1,14 @@
 # git
 
+## Undo a local `git rebase` action:
+
+```bash
+git reflog
+# find the appropriate hash and number to reset to
+git reset --hard HEAD@{N}
+# replace `N` with that number from the reflog hash
+```
+
 ## branch
 
 Set a local branch to track a remote branch.
