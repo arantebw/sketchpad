@@ -1,15 +1,29 @@
 # neovim
 
+Reloads the currently open Lua file.
+
 ```
 :luafile %
 ```
 
-Reloads the currently open Lua file.
+## Packer
 
-# mason
+Opens the available Packer-related options.
+
+```
+:Packer + <TAB>
+```
+
+## Mason
+
+Opens the available Mason-related options.
+
+```
+:Mason + <TAB>
+```
+
+Opens the Mason modal of available LSPs, DAPs, linters, and formatters.
 
 ```
 :Mason
 ```
-
-Opens the Mason modal of available LSPs, DAPs, linters, and formatters.
