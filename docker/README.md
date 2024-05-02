@@ -127,13 +127,13 @@ docker --version
 
 List all running containers.
 
-```
+```bash
 docker ps
 ```
 
 List all running/stopped containers.
 
-```
+```bash
 docker ps -a
 ```
 
@@ -146,6 +146,12 @@ container.
 
 ```bash
 docker stop <container_id>
+```
+
+Stop all running processes.
+
+```bash
+docker stop $(docker ps -q)
 ```
 
 ## docker system
