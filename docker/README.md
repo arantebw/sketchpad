@@ -30,17 +30,19 @@ Executes a one-off `<bash_command>` in the container.
 docker exec <container_id> <bash_command>
 ```
 
+Start a shell session within the container.
+
+```bash
+docker exec -it <container_id> /bin/sh
+```
+
 ## docker image
 
 List all of the available images on a host machine.
 
 ```bash
 docker images
-```
-
-Or,
-
-```bash
+# Or,
 docker image ls
 ```
 
@@ -68,7 +70,7 @@ docker run --name <container> -d -p 27017:27017 mongo:4.2.23
 ```
 
 ```bash
-docker run -p <host_port>:<exposed_port> <dockerhub_username>/<app_name>
+docker run -p <host_port>:<guest_port> <dockerhub_username>/<app_name>
 ```
 
 ## docker compose
