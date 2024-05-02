@@ -30,6 +30,14 @@ List all of the available images on a host machine.
 docker image ls
 ```
 
+## docker kill
+
+This stops the container by issuing a `SIGKILL` signal to the container.
+
+```bash
+docker kill <container_id>
+```
+
 ## docker run
 
 Download/execute the `hello-world` Docker image.
