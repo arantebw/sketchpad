@@ -115,6 +115,15 @@ docker ps -a
 
 `-a` or `--all`.
 
+## docker stop
+
+This command stops a running container by issuing a `SIGTERM` signal to the
+container.
+
+```bash
+docker stop <container_id>
+```
+
 ## docker system
 
 Remove all stopped containers, build cache, networks, and volumes.
