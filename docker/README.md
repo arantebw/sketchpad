@@ -22,6 +22,14 @@ Rename an existing `<container>` to `<new_name>`.
 docker container rename <container> <new_name>
 ```
 
+## docker exec
+
+Executes a one-off `<bash_command>` in the container.
+
+```bash
+docker exec <container_id> <bash_command>
+```
+
 ## docker image
 
 List all of the available images on a host machine.
