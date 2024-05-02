@@ -27,6 +27,12 @@ docker container rename <container> <new_name>
 List all of the available images on a host machine.
 
 ```bash
+docker images
+```
+
+Or,
+
+```bash
 docker image ls
 ```
 
