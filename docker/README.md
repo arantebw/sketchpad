@@ -1,11 +1,15 @@
-# Docker
+# docker
 
-## docker context
+## docker build
 
-List all of the available Docker *context* on a host machine.
+Build a new Docker image with a Dockerfile.
 
 ```bash
-docker context ls
+docker build -t <dockerhub_username>/<app_name>:<version> .
+```
+
+```bash
+docker build -f <dockerfile> .
 ```
 
 ## docker container
@@ -22,55 +26,12 @@ Rename an existing `<container>` to `<new_name>`.
 docker container rename <container> <new_name>
 ```
 
-## docker exec
+## docker context
 
-Executes a one-off `<bash_command>` in the container.
-
-```bash
-docker exec <container_id> <bash_command>
-```
-
-Start a shell session within the container.
+List all of the available Docker *context* on a host machine.
 
 ```bash
-docker exec -it <container_id> /bin/sh
-```
-
-## docker image
-
-List all of the available images on a host machine.
-
-```bash
-docker images
-# Or,
-docker image ls
-```
-
-## docker kill
-
-This stops the container by issuing a `SIGKILL` signal to the container.
-
-```bash
-docker kill <container_id>
-```
-
-## docker run
-
-Download/execute the `hello-world` Docker image.
-
-```
-docker run hello-world
-```
-
-Run a MongoDB server as `<container>` with exposed port using the
-`mongo:4.2.23` image.
-
-```bash
-docker run --name <container> -d -p 27017:27017 mongo:4.2.23
-```
-
-```bash
-docker run -p <host_port>:<guest_port> <dockerhub_username>/<app_name>
+docker context ls
 ```
 
 ## docker compose
@@ -109,18 +70,44 @@ Restart Policies:
 docker compose ps
 ```
 
-## docker version
+## docker exec
 
-Check the details of the Docker tools installed in your machine.
+Executes a one-off `<bash_command>` in the container.
 
 ```bash
-docker version
+docker exec <container_id> <bash_command>
 ```
 
-Check the current version of Docker engine installed.
+Start a shell session within the container.
 
 ```bash
-docker --version
+docker exec -it <container_id> /bin/sh
+```
+
+## docker image
+
+List all of the available images on a host machine.
+
+```bash
+docker images
+# Or,
+docker image ls
+```
+
+## docker kill
+
+This stops the container by issuing a `SIGKILL` signal to the container.
+
+```bash
+docker kill <container_id>
+```
+
+## docker logs
+
+Display all the container logs.
+
+```bash
+docker logs <container_id>
 ```
 
 ## docker ps
@@ -138,6 +125,33 @@ docker ps -a
 ```
 
 `-a` or `--all`.
+
+## docker rm
+
+Remove a specific Docker container.
+
+```bash
+docker rm <container_id>
+```
+
+## docker run
+
+Download/execute the `hello-world` Docker image.
+
+```
+docker run hello-world
+```
+
+Run a MongoDB server as `<container>` with exposed port using the
+`mongo:4.2.23` image.
+
+```bash
+docker run --name <container> -d -p 27017:27017 mongo:4.2.23
+```
+
+```bash
+docker run -p <host_port>:<guest_port> <dockerhub_username>/<app_name>
+```
 
 ## docker stop
 
@@ -164,30 +178,17 @@ docker system prune
 docker system prune -a
 ```
 
-## docker rm
+## docker version
 
-Remove a specific Docker container.
-
-```bash
-docker rm <container_id>
-```
-
-## docker logs
-
-Display all the container logs.
+Check the details of the Docker tools installed in your machine.
 
 ```bash
-docker logs <container_id>
+docker version
 ```
 
-## docker build
-
-Build a new Docker image with a Dockerfile.
+Check the current version of Docker engine installed.
 
 ```bash
-docker build -t <dockerhub_username>/<app_name>:<version> .
+docker --version
 ```
 
-```bash
-docker build -f <dockerfile> .
-```
