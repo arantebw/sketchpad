@@ -110,6 +110,14 @@ Display all the container logs.
 docker logs <container_id>
 ```
 
+## docker pull
+
+Downloads an image from Dockerhub.
+
+```bash
+docker pull <image_name>
+```
+
 ## docker ps
 
 List all running containers.
