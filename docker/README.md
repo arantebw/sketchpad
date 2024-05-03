@@ -154,12 +154,23 @@ Run a MongoDB server as `<container>` with exposed port using the
 `mongo:4.2.23` image.
 
 ```bash
-docker run --name <container> -d -p 27017:27017 mongo:4.2.23
+docker run --name <container_name> -d -p 27017:27017 mongo:4.2.23
 ```
 
+Note:
+
+- `-d` run container in background and print container ID.
+- `p <host_port>:<container_port>` port-forwarding between the host machine and container.
+- `<image_name>:<tag>` mongo:4.2.23 is the image_name:tag downloaded.
+
 ```bash
-docker run -p <host_port>:<guest_port> <dockerhub_username>/<app_name>
+docker run -d -p 3001:2368 -v ghost-vol:/var/lib/ghost/content -e NODE_ENV=development -e URL=http://localhost:3001 ghost
 ```
+
+Note:
+
+- `-v ghost-vol:/var/lib/ghost/content` mounts the `ghost-vol` volume to the `/var/lib/ghost/content` directory for persistent data.
+- `-e NODE_ENV=development` and `-e URL=http://localhost:3001` are environment variables.
 
 ## docker stop
 
