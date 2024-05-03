@@ -192,3 +192,23 @@ Check the current version of Docker engine installed.
 docker --version
 ```
 
+## docker volume
+
+Create a new storage volume.
+
+```bash
+docker volume create <volume_name>
+```
+
+List all of the existing storage volume.
+
+```bash
+docker volume ls
+```
+
+Show the details of an existing storage volume.
+
+```bash
+docker volume inspect <volume_name>
+```
+
