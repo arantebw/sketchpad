@@ -172,6 +172,16 @@ Note:
 - `-v ghost-vol:/var/lib/ghost/content` mounts the `ghost-vol` volume to the `/var/lib/ghost/content` directory for persistent data.
 - `-e NODE_ENV=development` and `-e URL=http://localhost:3001` are environment variables.
 
+```bash
+docker run -d --network none docker/gettting-started
+docker exec <container_id> ping google.com -W 2 # returns an error
+# ping: bad address
+```
+
+Note:
+
+- `--network none` disable network connection of the container.
+
 ## docker stop
 
 This command stops a running container by issuing a `SIGTERM` signal to the
