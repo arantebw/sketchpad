@@ -110,6 +110,20 @@ Display all the container logs.
 docker logs <container_id>
 ```
 
+## docker network
+
+Create a new custom bridge network.
+
+```bash
+docker network create <network_name>
+```
+
+List custom bridge networks.
+
+```bash
+docker network ls
+```
+
 ## docker pull
 
 Downloads an image from Dockerhub.
