@@ -9,14 +9,15 @@ A personal collection of technical and non-technical notes.
 - [Python](./langs/py.md)
 - [C++](./langs/cpp.md)
 - [C](./langs/c.md)
-- Java
-- Lisp
-- Perl
+- [Java](#)
+- [Lisp](#)
+- [Perl](#)
 
 ### Full-Stack Web Development Languages
 
 - [JavaScript](./langs/js.md)
 - [Go](./langs/go.md)
+- [Rust](./rust/)
 
 ## Open-Source Project Contributions
 
