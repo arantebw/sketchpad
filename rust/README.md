@@ -31,3 +31,9 @@ cargo build
 # run it
 ./target/debug/program_name
 ```
+
+Build a project, then run it automatically, if build is successful.
+
+```bash
+cargo run
+```
