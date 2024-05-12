@@ -21,3 +21,13 @@ Create a new project.
 ```bash
 cargo new hello-cargo
 ```
+
+Build a project, then run it manually.
+
+```bash
+# build it
+cargo build
+
+# run it
+./target/debug/program_name
+```
