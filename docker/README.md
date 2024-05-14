@@ -196,6 +196,14 @@ Note:
 
 - `--network none` disable network connection of the container.
 
+## docker push
+
+Push the image to Docker Hub.
+
+```bash
+docker push <dockerhub_username>/<image_name>:<tag>
+```
+
 ## docker stop
 
 This command stops a running container by issuing a `SIGTERM` signal to the
