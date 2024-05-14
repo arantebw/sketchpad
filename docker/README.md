@@ -2,6 +2,12 @@
 
 ## docker build
 
+Build multiple images simultaneously.
+
+```bash
+docker build -t <dockerhub_username>/<image_name>:0.0.0 -t <dockerhub_username>/<image_name>:latest .
+```
+
 Build a new Docker image with a Dockerfile.
 
 ```bash
@@ -209,6 +215,12 @@ docker pull <dockerhub_username>/<image_name>:<tag>
 ```
 
 ## docker push
+
+Push multiple images to Docker Hub simultaneously.
+
+```bash
+docker push <dockerhub_username>/<image_name> --all-tags
+```
 
 Push the image to Docker Hub.
 
