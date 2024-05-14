@@ -2,6 +2,15 @@
 
 Started learning and using the Go programming language in October 2022.
 
+## go build
+
+
+Compiles the packages, together with dependencies, but it doesn't install the results (binary).
+
+```bash
+GOOS=linux GOARCH=amd64 go build
+```
+
 ### module
 - Is a collection of packages.
 
@@ -38,12 +47,6 @@ $ go mod tidy
 $ go run .
 ```
 - Executes your code together with the packages.
-
-```
-$ go build
-```
-- Compiles the packages, together with dependencies, but it doesn't install the
-  results (binary).
 
 ```
 $ go install
