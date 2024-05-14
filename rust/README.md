@@ -37,3 +37,9 @@ Build a project, then run it automatically, if build is successful.
 ```bash
 cargo run
 ```
+
+Check if your program still compiles -- i.e. run a new build without creating an exetuble.
+
+```bash
+cargo check
+```
