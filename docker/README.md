@@ -86,6 +86,12 @@ docker exec -it <container_id> /bin/sh
 
 ## docker image
 
+Remove a local copy of an image.
+
+```bash
+docker image rm <dockerhub_username>/<image_name>:<tag>
+```
+
 List all of the available images on a host machine.
 
 ```bash
@@ -195,6 +201,12 @@ docker exec <container_id> ping google.com -W 2 # returns an error
 Note:
 
 - `--network none` disable network connection of the container.
+
+## docker pull
+
+```bash
+docker pull <dockerhub_username>/<image_name>:<tag>
+```
 
 ## docker push
 
