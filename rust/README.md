@@ -10,6 +10,13 @@ rustc --version
 
 ## cargo
 
+Buils a documentation of all the project's dependencies locally and open it in
+a browser.
+
+```bash
+cargo doc --open
+```
+
 Check the version of `cargo` installed.
 
 ```bash
