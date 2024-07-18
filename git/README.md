@@ -31,6 +31,13 @@ Delete all local branch(es) except the `main` branch.
 ```bash
 git branch | grep -v 'main' | xargs git branch -D
 ```
+## cat-file
+
+Print the contents of a commit using its `<hash>`.
+
+```
+git cat-file -p <hash>
+```
 
 ## clean
 
