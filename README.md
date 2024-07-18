@@ -46,6 +46,7 @@ A personal collection of technical and non-technical notes.
 - [shell](./shell/README.md)
 - [systemctl](./systemctl/)
 - [tmux](./tmux/README.md)
+- [xxd](./xxd/README.md)
 
 #### Text Editors
 
