@@ -1,6 +1,6 @@
 # git
 
-## Undo a local `git rebase` action:
+## Undo a local `git rebase` action
 
 ```bash
 git reflog
@@ -19,7 +19,7 @@ git branch --set-upstream-to=origin/remote_branch local_branch
 
 Deleted a remote main branch, then sync the new local main branch.
 
-```
+```bash
 git branch -m <backup> main
 git fetch origin
 git branch -u origin/main main
@@ -31,23 +31,24 @@ Delete all local branch(es) except the `main` branch.
 ```bash
 git branch | grep -v 'main' | xargs git branch -D
 ```
+
 ## cat-file
 
 Print the contents of a commit using its `<hash>`.
 
-```
+```bash
 git cat-file -p <hash>
 ```
 
 ## clean
 
-```
+```bash
 git clean -n
 ```
 
 Display all of the file(s) to be removed from the working tree.
 
-```
+```bash
 git clean -f
 ```
 
@@ -55,29 +56,42 @@ Remove all of the regular untracked file(s) from the working tree.
 
 ## checkout
 
-```
+```bash
 git switch -c <commit_hash>
 ```
 
 Create a new branch from a detached head with a `<commit_hash>`.
 
-```
+```bash
 git checkout <commit_hash>
 ```
 
 Checkout a certain commit from history. `NOTE:` This will create a detached
 head, and will recommend to create a new branch.
 
+## config
+
+```bash
+git config --list --local
+```
+
+List the git configuration of a local repository.
+
+```bash
+git config --list
+```
+
+List the global git configuration of a user.
+
 ## switch
 
-```
+```bash
 git switch -c <branch> <remote>/<branch>
 ```
 
 Switch to a remote branch and track it locally.
 
-
-```
+```bash
 git switch -
 ```
 
@@ -85,38 +99,37 @@ Switch the active branch to the previously active branch.
 
 ## stash
 
-```
+```bash
 git stash --include-untracked
 ```
 
 Or,
 
-```
+```bash
 git stash -u
 ```
 
 Undo and stash away the changes to tracked and untracked files.
 
-```
+```bash
 git stash list
 ```
 
 Display a list of all the stashed changes.
 
-
-```
+```bash
 git stash push -m "description"
 ```
 
 Create a new stash with a good description.
 
-```
+```bash
 git stash push <directory | file> --keep-index
 ```
 
 Undo and stash away the changes made to a directory/file.
 
-```
+```bash
 git stash clear
 ```
 
@@ -124,7 +137,7 @@ git stash clear
 
 Delete all the changes made and stashed away.
 
-```
+```bash
 git fetch <remote> --prune
 ```
 
@@ -148,7 +161,7 @@ git push <remote> <branch> --force
 
 Align the local branch with `remote/branch` and remove all dangling changes.
 
-```
+```bash
 git reset --hard remote/branch
 ```
 
