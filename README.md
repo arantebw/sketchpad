@@ -48,6 +48,10 @@ A personal collection of technical and non-technical notes.
 - [tmux](./tmux/README.md)
 - [xxd](./xxd/README.md)
 
+## Terminals
+
+- [kitty](/kitty/README.md)
+
 #### Text Editors
 
 - [vim](./vim/README.md)
