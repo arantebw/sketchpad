@@ -1,10 +1,19 @@
-# Python
+# python
 
-Personal notes about the Python programming language.
-
-```
+```bash
 python -m venv <project_venv>
-source <project/path/project_venv>/bin/activate
+```
+
+Create a new virtual environment.
+
+```bash
+source project/path/<project_venv>/bin/activate
+```
+
+Activate a virtual environment.
+
+```bash
 python -m pip install <package>
 ```
-Installs a third-party package using `pip`.
+
+Installs a third-party package using `pip` module.
