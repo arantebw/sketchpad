@@ -4,7 +4,9 @@ A personal collection of technical and non-technical notes.
 
 ## Computer Programming
 
-### The Core Hacking Languages
+### The Core Computer Hacking Languages
+
+According to `esr`, these are the core computer hacking programming languages:
 
 - [Python](./langs/py.md)
 - [C++](./langs/cpp.md)
@@ -13,15 +15,17 @@ A personal collection of technical and non-technical notes.
 - [Lisp](#)
 - [Perl](#)
 
-### Full-Stack Web Development Languages
+### My Software Engineering Languages
+
+Whenever I need to create a new web app, CLI, script, or program, these are my
+go-to programming languages:
 
 - [JavaScript](./langs/js.md)
+- [Python](./langs/py.md)
 - [Go](./langs/go.md)
 - [Rust](./rust/)
 
 ## Open-Source Project Contributions
-
-### Interesting Projects
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Aarantebw+is%3Aclosed)
 
@@ -30,7 +34,7 @@ A personal collection of technical and non-technical notes.
 - [usehooks-ts](https://github.com/juliencrn/usehooks-ts)
 - [react-cookie](https://github.com/bendotcodes/cookies)
 
-## Full-Stack Web Development
+## The Web
 
 - [`sr-only` Class](./css/README.md#sr-only)
 - [DevTools Breakpoints](./css/README.md#break-points)
