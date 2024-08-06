@@ -1,16 +1,8 @@
 # Rust
 
-## rustc
+## cargo (package manager)
 
-Check the version of `rustc` installed.
-
-```bash
-rustc --version
-```
-
-## cargo
-
-Buils a documentation of all the project's dependencies locally and open it in
+Builds a documentation of all the project's dependencies locally and open it in
 a browser.
 
 ```bash
@@ -49,4 +41,20 @@ Check if your program still compiles -- i.e. run a new build without creating an
 
 ```bash
 cargo check
+```
+
+## rustc (compiler)
+
+Check the version of `rustc` installed.
+
+```bash
+rustc --version
+```
+
+## rustup (version manager)
+
+Update Rust to a newly released version.
+
+```bash
+rustup update
 ```
