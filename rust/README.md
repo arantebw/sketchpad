@@ -53,6 +53,18 @@ rustc --version
 
 ## rustup (version manager)
 
+Install the `rust-analyzer` LSP for `LazyVim`.
+
+```bash
+rustup component add rust-analyzer
+```
+
+List all of the available plugins.
+
+```bash
+rustup component list
+```
+
 Update Rust to a newly released version.
 
 ```bash
