@@ -1,5 +1,35 @@
 # git
 
+## Amend a specific commit
+
+```bash
+git log --oneline
+git rebase -i HEAD~n
+```
+
+```bash
+edit 1234567 commit message A
+```
+
+Save and then close -- `:x`. The `rebase` will stop at the commit you marked
+`edit`, then do the amending.
+
+```bash
+git commit --amend
+```
+
+After making the changes.
+
+```bash
+git rebase --continue
+```
+
+Finally, push your changes to the remote repository.
+
+```bash
+git push origin [branch] --force
+```
+
 ## Undo a local `git rebase` action
 
 ```bash
