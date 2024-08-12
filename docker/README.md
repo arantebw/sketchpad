@@ -34,7 +34,7 @@ docker container rename <container> <new_name>
 
 ## docker context
 
-List all of the available Docker *context* on a host machine.
+List all of the available Docker _context_ on a host machine.
 
 ```bash
 docker context ls
@@ -67,6 +67,7 @@ docker compose down
 ```
 
 Restart Policies:
+
 - "no"
 - always
 - on-failure
@@ -228,6 +229,14 @@ Push the image to Docker Hub.
 docker push <dockerhub_username>/<image_name>:<tag>
 ```
 
+## docker start
+
+Run a previously stopped container.
+
+```bash
+docker start <container_name>
+```
+
 ## docker stop
 
 This command stops a running container by issuing a `SIGTERM` signal to the
@@ -286,4 +295,3 @@ Show the details of an existing storage volume.
 ```bash
 docker volume inspect <volume_name>
 ```
-
