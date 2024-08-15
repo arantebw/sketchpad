@@ -101,6 +101,12 @@ head, and will recommend to create a new branch.
 
 ## config
 
+Set the `global` default branch.
+
+```bash
+git config --global init.defaultBranch branch-name
+```
+
 ```bash
 git config --list --local
 ```
