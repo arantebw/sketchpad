@@ -219,9 +219,15 @@ git rebase -i HEAD~<number_of_commits>
 
 ## tag
 
+Create a new tag on the latest commit.
+
+```console
+git tag <name>
+```
+
 Rename an `<old>` tag to a `<new>` tag.
 
-```bash
+```console
 git tag <new> <old>
 git tag -d <old>
 git push origin <new> :<old>
