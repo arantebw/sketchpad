@@ -171,6 +171,12 @@ docker rm <container_id>
 
 ## docker run
 
+Run a Redis server.
+
+```console
+docker run --name redis-server -d -p 6379:6379 redis
+```
+
 Download/execute the `hello-world` Docker image.
 
 ```
