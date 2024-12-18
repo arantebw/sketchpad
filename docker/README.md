@@ -137,14 +137,6 @@ List custom bridge networks.
 docker network ls
 ```
 
-## docker pull
-
-Downloads an image from Dockerhub.
-
-```bash
-docker pull <image_name>
-```
-
 ## docker ps
 
 List all running containers.
@@ -217,7 +209,13 @@ Note:
 
 ## docker pull
 
-```bash
+Downloads an image from Dockerhub.
+
+```console
+docker pull <image_name>
+```
+
+```console
 docker pull <dockerhub_username>/<image_name>:<tag>
 ```
 
