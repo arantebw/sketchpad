@@ -4,6 +4,12 @@
 
 ## Commonly-used Commands
 
+Quit (close) a window.
+
+```text
+Alt + Shift + q
+```
+
 Lock the screen.
 
 I created a custom keybinding for this using `i3lock` in my
