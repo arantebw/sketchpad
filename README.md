@@ -1,6 +1,37 @@
 # sketchpad
 
-A personal collection of technical and non-technical notes.
+A collection of personal and technical notes.
+
+## My Daily Drivers
+
+- [i3](./i3/README.md)
+- [kitty](./kitty/README.md)
+- [neovim](./neovim/README.md)
+- [vim](./vim/README.md)
+
+### CLI Tools
+
+- [docker](./docker/README.md)
+- [find](./find/)
+- [frontastic](./frontastic/)
+- [git](./git/README.md)
+- [nvm](./nvm/README.md)
+- [shell](./shell/README.md)
+- [systemctl](./systemctl/)
+- [tmux](./tmux/README.md)
+- [xxd](./xxd/README.md)
+
+### Package Managers
+
+- [npm](./npm/README.md)
+- [npx](./npx/README.md)
+- [yarn](./yarn/README.md)
+- [pnpm](./pnpm/README.md)
+
+### Vim Plugins
+
+- [ctrlp.vim](./vim-plugins/ctlp_vim.md)
+- [commentary.vim](./vim-plugins/commentary_vim.md)
 
 ## Computer Programming
 
@@ -21,9 +52,10 @@ Whenever I need to create a new web app, CLI, script, or program, these are my
 go-to programming languages:
 
 - [JavaScript](./langs/js.md)
-- [Python](./langs/py.md)
 - [Go](./langs/go.md)
+- [Python](./langs/py.md)
 - [Rust](./rust/)
+- [TypeScript](#)
 
 ## Open-Source Project Contributions
 
@@ -39,39 +71,6 @@ go-to programming languages:
 - [`sr-only` Class](./css/README.md#sr-only)
 - [DevTools Breakpoints](./css/README.md#break-points)
 - [Chromium/Chrome](./chrome/README.md)
-
-### CLI Tools
-
-- [docker](./docker/README.md)
-- [find](./find/)
-- [frontastic](./frontastic/)
-- [git](./git/README.md)
-- [nvm](./nvm/README.md)
-- [shell](./shell/README.md)
-- [systemctl](./systemctl/)
-- [tmux](./tmux/README.md)
-- [xxd](./xxd/README.md)
-
-## Terminals
-
-- [kitty](/kitty/README.md)
-
-#### Text Editors
-
-- [vim](./vim/README.md)
-- [neovim](./neovim/README.md)
-
-#### Package Managers
-
-- [npm](./npm/README.md)
-- [npx](./npx/README.md)
-- [yarn](./yarn/README.md)
-- [pnpm](./pnpm/README.md)
-
-### Vim Plugins
-
-- [ctrlp.vim](./vim-plugins/ctlp_vim.md)
-- [commentary.vim](./vim-plugins/commentary_vim.md)
 
 ## Tech & Non-Tech Stuff
 
