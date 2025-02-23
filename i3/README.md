@@ -10,6 +10,12 @@ Enable full-screen mode of a window.
 Alt + f
 ```
 
+Go to workspace number `#`.
+
+```text
+Alt + #
+```
+
 Search and open an app using `dmenu`.
 
 ```text
