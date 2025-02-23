@@ -4,6 +4,14 @@
 
 ## Commonly-used Commands
 
+Search and open an app using `dmenu`.
+
+```text
+Alt + d
+
+Enter the app name
+```
+
 Open the default terminal app.
 
 ```text
