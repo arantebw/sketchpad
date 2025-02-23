@@ -10,6 +10,12 @@ Enable full-screen mode of a window.
 Alt + f
 ```
 
+Move a window to workspace number `#`.
+
+```text
+Alt + Shift + #
+```
+
 Go to workspace number `#`.
 
 ```text
