@@ -4,6 +4,12 @@
 
 ## Commonly-used Commands
 
+Enable full-screen mode of a window.
+
+```text
+Alt + f
+```
+
 Search and open an app using `dmenu`.
 
 ```text
