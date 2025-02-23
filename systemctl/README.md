@@ -2,12 +2,12 @@
 
 Check the status of a service.
 
-```bash
+```console
 sudo systemctl status <service_name>
 ```
 
 Restarts a service.
 
-```bash
+```console
 sudo systemctl restart <service_name>
 ```
