@@ -4,6 +4,12 @@
 
 ## Commonly-used Commands
 
+Open the default terminal app.
+
+```text
+Alt + Enter
+```
+
 Quit (close) a window.
 
 ```text
