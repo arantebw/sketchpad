@@ -2,7 +2,7 @@
 
 Reloads the currently open Lua file.
 
-```
+```text
 :luafile %
 ```
 
@@ -10,7 +10,7 @@ Reloads the currently open Lua file.
 
 Opens the available Packer-related options.
 
-```
+```text
 :Packer + <TAB>
 ```
 
@@ -18,13 +18,13 @@ Opens the available Packer-related options.
 
 Opens the available Mason-related options.
 
-```
+```text
 :Mason + <TAB>
 ```
 
 Opens the Mason modal of available LSPs, DAPs, linters, and formatters.
 
-```
+```text
 :Mason
 ```
 
@@ -36,4 +36,7 @@ Opens the Mason modal of available LSPs, DAPs, linters, and formatters.
 - is used to store command history, registers, marks, and other session-related
   info
 
-> Solution: Delete the affected (corrupted) ShaDa file, then restart `nvim`.
+> Solution:  
+> Delete the affected (corrupted) ShaDa file, then restart `nvim`.  
+> Go to `~/.local/state/nvim/shada/` directory,  
+> then delete the file.
