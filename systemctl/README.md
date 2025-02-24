@@ -1,5 +1,11 @@
 # systemctl
 
+Start the `docker-desktop` service.
+
+```console
+systemctl --user start docker-desktop &
+```
+
 Check the status of a service.
 
 ```console
