@@ -18,6 +18,12 @@ npx gitignore node
 
 ## migrate-mongo
 
+Undo the latest completed migration.
+
+```console
+npx migrate-mongo down
+```
+
 Run all `PENDING` migration.
 
 ```console
