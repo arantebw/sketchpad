@@ -15,3 +15,11 @@ Create an ignore file of Node-based project.
 ```console
 npx gitignore node
 ```
+
+## migrate-mongo
+
+Check status of the MongoDB migrations.
+
+```console
+npx migrate-mongo status
+```
