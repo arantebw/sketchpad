@@ -18,6 +18,12 @@ npx gitignore node
 
 ## migrate-mongo
 
+Run all `PENDING` migration.
+
+```console
+npx migrate-mongo up
+```
+
 Check status of the MongoDB migrations.
 
 ```console
