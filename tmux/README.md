@@ -1,14 +1,10 @@
 # tmux
 
-Shuffle between layouts.
-
-`Ctrl` + `b` + `Space`
-
 ## kill-server
 
 It kills the current tmux server.
 
-```bash
+```console
 tmux kill-server
 ```
 
@@ -16,7 +12,7 @@ tmux kill-server
 
 Move the `<window_index>` window to `<session_name>` session.
 
-```bash
+```console
 tmux move-window -s <session_name>:<window_index>
 ```
 
@@ -25,41 +21,45 @@ tmux move-window -s <session_name>:<window_index>
 ```bash
 tmux swap-window -t <target>
 ```
+
 Swaps the current active window and the `<target>` window.
 
 ## buffer commands
 
-```
-C-b + -
-```
-
 Splits the current pane horizontally. This keybinding is a remap of the
 original `C-b + "` keybinding.
 
-```
-C-b + |
+```text
+C-b + -
 ```
 
 Splits the current pane vertically. This keybinding is a remap of the original
 `C-b + %` keybinding.
 
+```text
+C-b + |
 ```
-C-b + C-r
-```
+
 Restore persisted sessions after reboot.
 
+```text
+C-b + C-r
+```
 
-```
-C-b + C-s
-```
 Save current state of a session for persistence after reboot.
 
+```text
+C-b + C-s
 ```
-C-b + s
-```
+
 Display or switch (attach) from a list of active sessions.
 
+```text
+C-b + s
 ```
+
+Display or switch from a list of active panes (windows) of sessions.
+
+```text
 C-b + w
 ```
-Display or switch from a list of active panes (windows) of sessions.
