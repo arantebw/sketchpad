@@ -1,5 +1,11 @@
 # systemctl
 
+Shuts down and power-off your machine.
+
+```console
+sudo systemctl poweroff
+```
+
 Start the `docker-desktop` service.
 
 ```console
