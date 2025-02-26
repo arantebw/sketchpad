@@ -24,7 +24,13 @@ tmux swap-window -t <target>
 
 Swaps the current active window and the `<target>` window.
 
-## buffer commands
+## Buffer Commands
+
+Rename an active window.
+
+```text
+C-b + ,
+```
 
 Splits the current pane horizontally. This keybinding is a remap of the
 original `C-b + "` keybinding.
