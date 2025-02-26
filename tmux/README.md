@@ -26,6 +26,14 @@ Swaps the current active window and the `<target>` window.
 
 ## Buffer Commands
 
+Switch to a specific and open window.
+
+`#` is the number assigned to an open window.
+
+```text
+C-b + #
+```
+
 Rename an active window.
 
 ```text
