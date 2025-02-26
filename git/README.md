@@ -39,6 +39,14 @@ git reset --hard HEAD@{N}
 # replace `N` with that number from the reflog hash
 ```
 
+## add
+
+Selectively add a change to staging.
+
+```console
+git add -p
+```
+
 ## branch
 
 Set a local branch to track a remote branch.
