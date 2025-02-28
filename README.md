@@ -4,27 +4,26 @@ A collection of personal and technical notes.
 
 ## My Daily Drivers
 
+- [docker](./docker/README.md)
 - [i3](./i3/README.md)
 - [kitty](./kitty/README.md)
 - [neovim](./neovim/README.md)
-- [vim](./vim/README.md)
+- [tmux](./tmux/README.md)
 
 ### CLI Tools
 
-- [docker](./docker/README.md)
 - [find](./find/)
 - [frontastic](./frontastic/)
 - [git](./git/README.md)
-- [nvm](./nvm/README.md)
 - [shell](./shell/README.md)
 - [systemctl](./systemctl/)
-- [tmux](./tmux/README.md)
 - [xxd](./xxd/README.md)
 
 ### Package Managers
 
 - [npm](./npm/README.md)
 - [npx](./npx/README.md)
+- [nvm](./nvm/README.md)
 - [yarn](./yarn/README.md)
 - [pnpm](./pnpm/README.md)
 
@@ -52,9 +51,7 @@ Whenever I need to create a new web app, CLI, script, or program, these are my
 go-to programming languages:
 
 - [JavaScript](./langs/js.md)
-- [Go](./langs/go.md)
 - [Python](./langs/py.md)
-- [Rust](./rust/)
 - [TypeScript](#)
 
 ## Open-Source Project Contributions
