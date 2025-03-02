@@ -65,12 +65,18 @@ Alt + h
 
 ### systemctl
 
+Power-off the machine.
+
+```text
+Alt + d
+systemctl poweroff
+Enter
+```
+
 Reboot the machine.
 
 ```text
 Alt + d
-```
-
-```text
-systemctl reboot + Enter
+systemctl reboot
+Enter
 ```
