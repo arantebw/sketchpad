@@ -62,3 +62,15 @@ Horizontally tile the newly opened windows.
 ```text
 Alt + h
 ```
+
+### systemctl
+
+Reboot the machine.
+
+```text
+Alt + d
+```
+
+```text
+systemctl reboot + Enter
+```
