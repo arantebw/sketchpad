@@ -65,6 +65,14 @@ Alt + h
 
 ### systemctl
 
+Suspend the machine.
+
+```text
+Alt + d
+systemctl suspend
+Enter
+```
+
 Power-off the machine.
 
 ```text
