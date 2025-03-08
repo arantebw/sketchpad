@@ -1,5 +1,11 @@
 # bluetoothctl
 
+Connect a Bluetooth device:
+
+```console
+[bluetooth]# connect xx:xx:xx:xx:xx:xx
+```
+
 Check status of a Bluetooth device:
 
 ```console
