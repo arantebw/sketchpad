@@ -12,12 +12,13 @@ A collection of personal and technical notes.
 
 ### CLI Tools
 
+- [bluetoothctl](./bluetoothctl/)
 - [find](./find/)
 - [frontastic](./frontastic/)
-- [git](./git/README.md)
-- [shell](./shell/README.md)
+- [git](./git/)
+- [shell](./shell/)
 - [systemctl](./systemctl/)
-- [xxd](./xxd/README.md)
+- [xxd](./xxd/)
 
 ### Package Managers
 
