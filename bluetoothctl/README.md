@@ -1,6 +1,12 @@
 # bluetoothctl
 
-List all of paired bluetooth devices:
+Check status of a Bluetooth device:
+
+```console
+[bluetooth]# info xx:xx:xx:xx:xx:xx
+```
+
+List all of paired Bluetooth devices:
 
 ```console
 [bluetooth]# devices
