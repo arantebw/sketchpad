@@ -13,6 +13,7 @@ A collection of personal and technical notes.
 ### CLI Tools
 
 - [bluetoothctl](./bluetoothctl/)
+- [df](./df/)
 - [find](./find/)
 - [frontastic](./frontastic/)
 - [git](./git/)
