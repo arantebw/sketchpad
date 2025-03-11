@@ -17,6 +17,7 @@ A collection of personal and technical notes.
 - [find](./find/)
 - [frontastic](./frontastic/)
 - [git](./git/)
+- [lsblk](./lsblk/)
 - [shell](./shell/)
 - [systemctl](./systemctl/)
 - [xxd](./xxd/)
