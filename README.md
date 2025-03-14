@@ -20,6 +20,7 @@ A collection of personal and technical notes.
 - [lsblk](./lsblk/)
 - [shell](./shell/)
 - [systemctl](./systemctl/)
+- [uptime](./uptime/)
 - [xxd](./xxd/)
 
 ### Package Managers
