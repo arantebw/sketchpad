@@ -1,5 +1,11 @@
 # systemctl
 
+Restart the `NetworkManager` service.
+
+```console
+sudo systemctl restart NetworkManager
+```
+
 Shuts down and power-off your machine.
 
 ```console
