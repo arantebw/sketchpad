@@ -18,6 +18,7 @@ A collection of personal and technical notes.
 - [frontastic](./frontastic/)
 - [git](./git/)
 - [lsblk](./lsblk/)
+- [nmcli](./nmcli/)
 - [shell](./shell/)
 - [systemctl](./systemctl/)
 - [uptime](./uptime/)
