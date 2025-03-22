@@ -1,5 +1,11 @@
 # nvim
 
+Check the currently loaded LSP configuration of an active file.
+
+```text
+:LspInfo
+```
+
 Reloads the currently open Lua file.
 
 ```text
