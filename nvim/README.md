@@ -1,4 +1,4 @@
-# neovim
+# nvim
 
 Reloads the currently open Lua file.
 
