@@ -7,7 +7,7 @@ A collection of personal and technical notes.
 - [docker](./docker/README.md)
 - [i3](./i3/README.md)
 - [kitty](./kitty/README.md)
-- [neovim](./neovim/README.md)
+- [nvim](./nvim/README.md)
 - [tmux](./tmux/README.md)
 
 ### CLI Tools
