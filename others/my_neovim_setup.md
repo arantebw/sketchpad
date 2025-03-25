@@ -20,6 +20,12 @@
 sudo dnf install fzf
 ```
 
+### Download and install `rg` (ripgrep)
+
+```console
+sudo dnf install ripgrep
+```
+
 ### Download and install `fd-find`
 
 ```console
