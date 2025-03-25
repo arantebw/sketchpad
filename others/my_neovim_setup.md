@@ -14,7 +14,13 @@
 
 ## Getting Started
 
-### Install `fd-find`
+### Download and install `fzf`
+
+```console
+sudo dnf install fzf
+```
+
+### Download and install `fd-find`
 
 ```console
 sudo dnf install fd-find
