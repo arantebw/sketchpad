@@ -12,6 +12,13 @@ Reloads the currently open Lua file.
 :luafile %
 ```
 
+## LazyVim Keymaps
+
+Display the hover documentation:
+
+```text
+Shift + k
+```
 ## Packer
 
 Opens the available Packer-related options.
