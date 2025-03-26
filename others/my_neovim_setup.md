@@ -29,3 +29,9 @@ sudo dnf install ripgrep
 ```console
 sudo dnf install fd-find
 ```
+
+### Install plugins via `mason`:
+
+#### Python
+
+- `pyright`
