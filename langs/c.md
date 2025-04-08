@@ -12,10 +12,18 @@ BreakBeforeBraces: Allman # Optional: brace style
 ---
 ```
 
+## Commands
+
+Compile a program to a specific standard:
+
+```console
+gcc path/file.c -o file -std=<standard>
+```
+
 Compile a C program to the ANSI version.
 
 ```console
-gcc -ansi file.c
+gcc path/file.c -ansi
 ```
 
 Execute an executable C program.
