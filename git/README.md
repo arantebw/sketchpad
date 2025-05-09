@@ -1,5 +1,24 @@
 # git
 
+## Point `A` branch to `origin/main` from `B` branch
+
+Current:
+
+`A -> B -> origin/main`
+
+New:
+
+`A -> origin/main`
+
+`B -> origin/main`
+
+Commands:
+
+```console
+git checkout A
+git rebase --onto origin/main B
+```
+
 ## Amend a specific commit
 
 ```bash
