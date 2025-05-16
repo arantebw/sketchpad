@@ -1,6 +1,16 @@
 # kitty
 
-Enable fullscreen mode.
+Zoom in or out the text size.
+
+```text
+# Zoom in
+Ctrl + Shift + =
+
+# Zoom out
+Ctrl + Shift + -
+```
+
+Enable full screen mode.
 
 ```text
 Ctrl + Shift + F11
