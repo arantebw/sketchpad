@@ -2,6 +2,13 @@
 
 A Python version manager.
 
+Activate an existing environment.
+
+```console
+cd /path/to/your/project
+pyenv local venv
+```
+
 Create a new environment.
 
 ```console
