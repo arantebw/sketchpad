@@ -2,6 +2,12 @@
 
 A Python version manager.
 
+Create a new environment.
+
+```console
+pyenv virtualenv 3.11.4 venv
+```
+
 Install a specific version of Python.
 
 ```console
