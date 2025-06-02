@@ -1,5 +1,11 @@
 # kitty
 
+Navigate through open containers.
+
+```text
+Mod + j/k/l/;
+```
+
 Change container layout to tabbed.
 
 ```text
