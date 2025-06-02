@@ -1,5 +1,11 @@
 # kitty
 
+Change container layout to tabbed.
+
+```text
+Mod + w
+```
+
 Zoom in or out the text size.
 
 ```text
