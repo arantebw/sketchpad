@@ -26,7 +26,7 @@ fatal: unable to auto-detect email address (got 'arantebw@gallardo-m2.(none)')
 
 ```console
 sudo dnf install unclutter
-```text
+```
 
 ```text
 exec --no-startup-id unclutter -idle 3 -root
