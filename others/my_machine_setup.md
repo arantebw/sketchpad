@@ -33,3 +33,7 @@ sudo dnf install unclutter
 ```text
 exec --no-startup-id unclutter -idle 3 -root
 ```
+
+## Install `nvm` (Node Version Manager).
+
+- [Instructions](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
