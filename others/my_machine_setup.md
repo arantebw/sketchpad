@@ -1,5 +1,11 @@
 # My Machine Setup
 
+## Install the `kitty` terminal.
+
+```console
+sudo dnf install kitty
+```
+
 ## Install `ssh`, otherwise set it up with `dotfiles`.
 
 ## Install `git`, then setup the accounts default identity.
