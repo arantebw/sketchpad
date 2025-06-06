@@ -97,3 +97,19 @@ exec --no-startup-id unclutter -idle 3 -root
 ## Download and install the `FiraCode Nerd Font`.
 
 - [Download Page](https://www.nerdfonts.com/font-downloads)
+
+## Install the `Brave` web browser.
+
+- [Reference](https://brave.com/linux/#fedora-41-dnf5)
+
+```console
+sudo dnf install dnf-plugins-core
+```
+
+```console
+sudo dnf config-manager addrepo --from-repofile=https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
+```
+
+```console
+sudo dnf install brave-browser
+```
