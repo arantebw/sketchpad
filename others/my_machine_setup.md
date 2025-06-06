@@ -97,6 +97,10 @@ exec --no-startup-id unclutter -idle 3 -root
 
 - [Instructions](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
 
+```console
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+```
+
 ## Download and install the `FiraCode Nerd Font`.
 
 - [Download Page](https://www.nerdfonts.com/font-downloads)
