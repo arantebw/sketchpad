@@ -123,3 +123,7 @@ sudo dnf install brave-browser
 
 - Create the profiles
 - Update the sync codes
+
+## Install `slack`.
+
+- Install it via the `Software` app on Fedora.
