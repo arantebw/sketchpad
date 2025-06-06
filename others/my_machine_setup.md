@@ -90,6 +90,9 @@ sudo dnf install unclutter
 exec --no-startup-id unclutter -idle 3 -root
 ```
 
+> [!WARNING]
+> Compatible to `X11` window systems only.
+
 ## Install `nvm` (Node Version Manager).
 
 - [Instructions](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
