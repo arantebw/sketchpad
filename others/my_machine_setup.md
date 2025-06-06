@@ -70,3 +70,7 @@ exec --no-startup-id unclutter -idle 3 -root
 ## Install `nvm` (Node Version Manager).
 
 - [Instructions](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
+
+## Download and install the `FiraCode Nerd Font`.
+
+- [Download Page](https://www.nerdfonts.com/font-downloads)
