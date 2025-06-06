@@ -16,6 +16,10 @@ sudo dnf install nvim
 
 ## Install `git`, then setup the accounts default identity.
 
+```console
+sudo dnf install git
+```
+
 ```text
 Author identity unknown
 
