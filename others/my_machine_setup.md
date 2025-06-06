@@ -14,6 +14,14 @@ sudo dnf install nvim
 
 ## Install `ssh`, otherwise set it up with `dotfiles`.
 
+```console
+sudo dnf install ssh
+```
+
+```console
+ln -s ~/dotfiles/ssh/config ~/.ssh/config
+```
+
 ## Install `git`, then setup the accounts default identity.
 
 ```console
