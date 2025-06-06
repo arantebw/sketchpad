@@ -19,6 +19,12 @@ sudo dnf install ssh
 ```
 
 ```console
+mkdir -v .ssh
+```
+
+At first, copy the content of `dotfiles/ssh/config` to `~/.ssh/config`. Then, after cloning the `dotfiles` repo into your machine, delete the `~/.ssh/config` file and create the symlink below:
+
+```console
 ln -s ~/dotfiles/ssh/config ~/.ssh/config
 ```
 
