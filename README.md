@@ -78,7 +78,7 @@ go-to programming languages:
 - [DevTools Breakpoints](./css/README.md#break-points)
 - [Chromium/Chrome](./chrome/README.md)
 
-## Tech & Non-Tech Stuff
+## Others
 
 - [Useful IDE Features](./others/useful_ide_features.md)
 - [Japanese Wisdom](./others/japanese_wisdom.md)
