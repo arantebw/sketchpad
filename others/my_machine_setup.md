@@ -57,7 +57,28 @@ fatal: unable to auto-detect email address (got 'arantebw@gallardo-m2.(none)')
 
 ## Install and setup `zsh`.
 
-- [Instructions](https://chatgpt.com/share/683aeab4-a2b4-8008-8b9b-f8f425d43cea)
+```console
+sudo dnf install zsh -y
+```
+
+```console
+chsh -s $(which zsh)
+```
+
+> [!IMPORTANT]
+> Log out of your current session for changes to take effect.
+
+```console
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+```console
+ln -s ~/dotfiles/robbyrussell-custom.zsh-theme ~/.oh-my-zsh/themes/robbyrussell-custom.zsh-theme
+```
+
+```console
+curl https://pyenv.run | bash
+```
 
 ## Install `unclutter`, then update `dotfiles/i3`.
 
