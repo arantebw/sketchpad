@@ -28,6 +28,9 @@ At first, copy the content of `dotfiles/ssh/config` to `~/.ssh/config`. Then, af
 ln -s ~/dotfiles/ssh/config ~/.ssh/config
 ```
 
+> [!IMPORTANT]
+> Do not forget to generate the appropriate SSH keys of each accounts.
+
 ## Install `git`, then setup the accounts default identity.
 
 ```console
