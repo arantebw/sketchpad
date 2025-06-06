@@ -53,6 +53,8 @@ Omit --global to set the identity only in this repository.
 fatal: unable to auto-detect email address (got 'arantebw@gallardo-m2.(none)')
 ```
 
+## Clone the `dotfiles` repo.
+
 ## Install and setup `zsh`.
 
 - [Instructions](https://chatgpt.com/share/683aeab4-a2b4-8008-8b9b-f8f425d43cea)
