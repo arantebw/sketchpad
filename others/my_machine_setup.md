@@ -6,6 +6,12 @@
 sudo dnf install kitty
 ```
 
+## Install `nvim`.
+
+```console
+sudo dnf install nvim
+```
+
 ## Install `ssh`, otherwise set it up with `dotfiles`.
 
 ## Install `git`, then setup the accounts default identity.
