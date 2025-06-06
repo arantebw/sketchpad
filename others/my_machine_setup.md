@@ -113,3 +113,6 @@ sudo dnf config-manager addrepo --from-repofile=https://brave-browser-rpm-releas
 ```console
 sudo dnf install brave-browser
 ```
+
+- Create the profiles
+- Update the sync codes
