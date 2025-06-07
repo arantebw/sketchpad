@@ -129,3 +129,7 @@ sudo dnf install brave-browser
 ## Install `Slack`, `Postman`, and `Spotify`.
 
 - Install it via the `Software` app using `flatpak` on Fedora.
+
+## Install `Visual Studio Code`.
+
+- [Reference](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
