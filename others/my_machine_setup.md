@@ -1,5 +1,7 @@
 # My Machine Setup
 
+## Install the lates version of `Fedora Linux (Workstation Edition)`.
+
 ## Install the `kitty` terminal.
 
 ```console
