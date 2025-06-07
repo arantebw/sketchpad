@@ -124,6 +124,6 @@ sudo dnf install brave-browser
 - Create the profiles
 - Update the sync codes
 
-## Install `slack`.
+## Install `Slack`, `Postman`, and `Spotify`.
 
 - Install it via the `Software` app on Fedora.
