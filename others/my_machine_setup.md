@@ -126,4 +126,4 @@ sudo dnf install brave-browser
 
 ## Install `Slack`, `Postman`, and `Spotify`.
 
-- Install it via the `Software` app on Fedora.
+- Install it via the `Software` app using `flatpak` on Fedora.
