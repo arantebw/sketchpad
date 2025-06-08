@@ -55,7 +55,9 @@ Omit --global to set the identity only in this repository.
 fatal: unable to auto-detect email address (got 'arantebw@gallardo-m2.(none)')
 ```
 
-Create a symbolic link of `~/dotfiles/gitconfig`.
+```console
+ln -s ~/dotfiles/gitconfig ~/.gitconfig
+```
 
 ## Clone the `dotfiles` repo.
 
