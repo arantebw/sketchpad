@@ -1,5 +1,11 @@
 # kitty
 
+Rename an open tab.
+
+```text
+Ctrl + Shift + Alt + t
+```
+
 Switch between open tabs.
 
 ```text
