@@ -133,3 +133,10 @@ sudo dnf install brave-browser
 ## Install `Visual Studio Code`.
 
 - [Reference](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
+- Sign in using GitHub account.
+
+## Install the `Cursor AI Editor`.
+
+- [Reference](https://chatgpt.com/share/68450e1f-d874-8008-946c-ea20ee10452d)
+- Import the Visual Studio Code settings.
+
