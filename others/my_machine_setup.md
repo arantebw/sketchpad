@@ -59,6 +59,10 @@ fatal: unable to auto-detect email address (got 'arantebw@gallardo-m2.(none)')
 ln -s ~/dotfiles/gitconfig ~/.gitconfig
 ```
 
+```console
+sudo dnf install diff-so-fancy
+```
+
 ## Clone the `dotfiles` repo.
 
 ## Install and setup `zsh`.
