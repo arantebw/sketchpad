@@ -1,15 +1,15 @@
 # kitty
 
-Navigate through open containers.
+Switch between open tabs.
 
 ```text
-Mod + j/k/l/;
+Ctrl + Shift + Left / Right
 ```
 
-Change container layout to tabbed.
+Create a new tab.
 
 ```text
-Mod + w
+Ctrl + Shift + t
 ```
 
 Zoom in or out the text size.
