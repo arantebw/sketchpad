@@ -8,10 +8,14 @@
 sudo dnf install kitty
 ```
 
-## Install `nvim`.
+## Install `nvim` and `LazyVim`.
 
 ```console
 sudo dnf install nvim
+```
+
+```console
+git clone https://github.com/arantebw/nvim ~/.config/nvim
 ```
 
 ## Install `ssh`, otherwise set it up with `dotfiles`.
@@ -61,6 +65,10 @@ ln -s ~/dotfiles/gitconfig ~/.gitconfig
 
 ```console
 sudo dnf install diff-so-fancy
+```
+
+```console
+sudo npm install -g devmoji
 ```
 
 ## Clone the `dotfiles` repo.
