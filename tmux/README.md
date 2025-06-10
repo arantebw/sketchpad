@@ -26,9 +26,13 @@ Swaps the current active window and the `<target>` window.
 
 ## Buffer Commands
 
-Switch to a specific and open window.
+Install `tmux` plugins, then reload the environment.
 
-`#` is the number assigned to an open window.
+```text
+Ctrl + b, Shift + i
+```
+
+Switch to a specific and open window. `#` is the number assigned to an open window.
 
 ```text
 C-b + #
