@@ -156,3 +156,6 @@ sudo dnf install brave-browser
 - [Reference](https://chatgpt.com/share/68450e1f-d874-8008-946c-ea20ee10452d)
 - Import the Visual Studio Code settings.
 
+## Install `Vitals` from GNOME Shell Extensions.
+
+- [Reference](https://extensions.gnome.org/extension/1460/vitals/)
