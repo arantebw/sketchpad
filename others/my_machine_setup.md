@@ -8,16 +8,6 @@
 sudo dnf install kitty
 ```
 
-## Install `nvim` and `LazyVim`.
-
-```console
-sudo dnf install nvim
-```
-
-```console
-git clone https://github.com/arantebw/nvim ~/.config/nvim
-```
-
 ## Install `ssh`, otherwise set it up with `dotfiles`.
 
 ```console
@@ -32,6 +22,16 @@ At first, copy the content of `dotfiles/ssh/config` to `~/.ssh/config`. Then, af
 
 ```console
 ln -s ~/dotfiles/ssh/config ~/.ssh/config
+```
+
+## Install `nvim` and `LazyVim`.
+
+```console
+sudo dnf install nvim
+```
+
+```console
+git clone https://github.com/arantebw/nvim ~/.config/nvim
 ```
 
 > [!IMPORTANT]
