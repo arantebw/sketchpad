@@ -153,7 +153,8 @@ sudo dnf install brave-browser
 
 ## Install the `Cursor AI Editor`.
 
-- [Reference](https://chatgpt.com/share/68450e1f-d874-8008-946c-ea20ee10452d)
+- [Steps to download and install](https://chatgpt.com/share/68450e1f-d874-8008-946c-ea20ee10452d)
+- [Download the PNG logo](https://lobehub.com/icons/cursor)
 - Import the Visual Studio Code settings.
 
 ## Install `Vitals` from GNOME Shell Extensions.
