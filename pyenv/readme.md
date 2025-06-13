@@ -4,6 +4,12 @@ A Python version manager.
 
 ## Commands
 
+List the virtual environments created.
+
+```console
+pyenv virtualenvs
+```
+
 List the versions installed.
 
 ```console
