@@ -159,4 +159,6 @@ sudo dnf install brave-browser
 
 ## Install `Vitals` from GNOME Shell Extensions.
 
+![image](https://github.com/user-attachments/assets/4a801e2a-d165-4399-bea6-e0178f5d8c93)
+
 - [Reference](https://extensions.gnome.org/extension/1460/vitals/)
