@@ -2,6 +2,14 @@
 
 A Python version manager.
 
+## Commands
+
+List the versions installed.
+
+```console
+pyenv versions
+```
+
 Activate an existing environment.
 
 ```console
