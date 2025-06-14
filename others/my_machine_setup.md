@@ -142,7 +142,7 @@ sudo dnf install brave-browser
 - Create the profiles
 - Update the sync codes
 
-## Install `Slack`, `Postman`, `Arduino IDE`, and `Spotify`.
+## Install `Slack`, `Postman`, `Arduino IDE`, `GIMP`, `KDEnlive`, and `Spotify`.
 
 - Install it via the `Software` app using `flatpak` on Fedora.
 
