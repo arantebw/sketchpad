@@ -162,3 +162,12 @@ sudo dnf install brave-browser
 ![image](https://github.com/user-attachments/assets/4a801e2a-d165-4399-bea6-e0178f5d8c93)
 
 - [Reference](https://extensions.gnome.org/extension/1460/vitals/)
+
+
+## On ThinkPads, install power management tools:
+
+```console
+sudo dnf install tlp tlp-rdw
+sudo tlp start
+sudo tlp-stat -b   # Shows battery status
+```
