@@ -84,3 +84,4 @@ go-to programming languages:
 - [Japanese Wisdom](./others/japanese_wisdom.md)
 - [My Neovim Setup](./others/my_neovim_setup.md)
 - [Software Engineering Tools](./othres/software_engineering_tools.md)
+- [My Software Development Machines Setup](/others/my_machine_setup.md)
