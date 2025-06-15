@@ -21,6 +21,7 @@ A collection of personal and technical notes.
 - [nmcli](./nmcli/)
 - [shell](./shell/)
 - [systemctl](./systemctl/)
+- [tlp](/tlp/README.md)
 - [uptime](./uptime/)
 - [xxd](./xxd/)
 
