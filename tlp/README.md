@@ -1,5 +1,11 @@
 # tlp
 
+Check the status.
+
+```console
+sudo tlp-stat -b
+```
+
 Set charge thresholds temporarily to start at 60 and end at 80.
 
 ```console
