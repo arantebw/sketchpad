@@ -1,5 +1,11 @@
 # tlp
 
+Check the current profile.
+
+```console
+sudo tlp-stat -m
+```
+
 Check the status.
 
 ```console
