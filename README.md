@@ -2,26 +2,23 @@
 
 A collection of personal and technical notes.
 
-## My Daily Drivers
-
-- [docker](./docker/README.md)
-- [i3](./i3/README.md)
-- [kitty](./kitty/README.md)
-- [nvim](./nvim/README.md)
-- [tmux](./tmux/README.md)
-
-### CLI Tools
+## CLI Tools
 
 - [bluetoothctl](./bluetoothctl/)
 - [df](./df/)
+- [docker](./docker/README.md)
 - [find](./find/)
 - [frontastic](./frontastic/)
 - [git](./git/)
+- [i3](./i3/README.md)
+- [kitty](./kitty/README.md)
 - [lsblk](./lsblk/)
 - [nmcli](./nmcli/)
+- [nvim](./nvim/README.md)
 - [shell](./shell/)
 - [systemctl](./systemctl/)
 - [tlp](/tlp/README.md)
+- [tmux](./tmux/README.md)
 - [uptime](./uptime/)
 - [xxd](./xxd/)
 
@@ -29,16 +26,20 @@ A collection of personal and technical notes.
 
 - [npm](./npm/README.md)
 - [npx](./npx/README.md)
-- [nvm](./nvm/README.md)
-- [yarn](./yarn/README.md)
 - [pnpm](./pnpm/README.md)
+- [yarn](./yarn/README.md)
 
-### Vim Plugins
+### Version Managers
+
+- [nvm](./nvm/README.md)
+- [pyenv](./pyenv/README.md)
+
+## Vim Plugins
 
 - [ctrlp.vim](./vim-plugins/ctlp_vim.md)
 - [commentary.vim](./vim-plugins/commentary_vim.md)
 
-### SaaS
+## SaaS
 
 - [GitHub](./github/)
 
@@ -73,12 +74,6 @@ go-to programming languages:
 - [usehooks-ts](https://github.com/juliencrn/usehooks-ts)
 - [react-cookie](https://github.com/bendotcodes/cookies)
 
-## The Web
-
-- [`sr-only` Class](./css/README.md#sr-only)
-- [DevTools Breakpoints](./css/README.md#break-points)
-- [Chromium/Chrome](./chrome/README.md)
-
 ## Others
 
 - [Useful IDE Features](./others/useful_ide_features.md)
@@ -87,3 +82,7 @@ go-to programming languages:
 - [Software Engineering Tools](./others/software_engineering_tools.md)
 - [My Software Development Machines Setup](./others/my_machine_setup.md)
 - [My How-Tos List](./howto/README.md)
+- [`sr-only` Class](./css/README.md#sr-only)
+- [DevTools Breakpoints](./css/README.md#break-points)
+- [Chromium/Chrome](./chrome/README.md)
+
