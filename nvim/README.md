@@ -1,5 +1,23 @@
 # nvim
 
+Scroll the current location of the cursor to the top of the screen.
+
+```text
+zt
+```
+
+Scroll the current location of the cursor to the center of the screen.
+
+```text
+zz
+```
+
+Scroll the current location of the cursor to the bottom of the screen.
+
+```text
+zb
+```
+
 Check the currently loaded LSP configuration of an active file.
 
 ```text
