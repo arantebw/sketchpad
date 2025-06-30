@@ -111,6 +111,8 @@ exec --no-startup-id unclutter -idle 3 -root
 > [!WARNING]
 > Compatible to `X11` window systems only.
 
+Instead, install the `Hide Cursor` GNOME Shell Extension for `Wayland` windowing systems.
+
 ## Install `nvm` (Node Version Manager).
 
 - [Instructions](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
