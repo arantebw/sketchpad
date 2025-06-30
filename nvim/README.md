@@ -1,5 +1,11 @@
 # nvim
 
+Display the absolute path of the current file.
+
+```console
+:echo expand('%:p')
+```
+
 Scroll the current location of the cursor to the top of the screen.
 
 ```text
@@ -37,6 +43,7 @@ Display the hover documentation:
 ```text
 Shift + k
 ```
+
 ## Packer
 
 Opens the available Packer-related options.
