@@ -1,5 +1,11 @@
 # nvim
 
+Explore the current directory.
+
+```text
+:Ex
+```
+
 Display the absolute path of the current file.
 
 ```console
