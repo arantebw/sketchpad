@@ -1,5 +1,11 @@
 # nvim
 
+Create a new file.
+
+```text
+%
+```
+
 Explore the current directory.
 
 ```text
