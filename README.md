@@ -56,11 +56,13 @@ According to `esr`, these are the core computer hacking programming languages:
 - [Lisp](#)
 - [Perl](#)
 
-### My Software Engineering Languages
+### My Computer Programming Languages of Choice
 
 Whenever I need to create a new web app, CLI, script, or program, these are my
-go-to programming languages:
+_go-to` programming languages:
 
+- C
+- GDScript
 - [JavaScript](./langs/js.md)
 - [Python](./langs/py.md)
 - [TypeScript](#)
