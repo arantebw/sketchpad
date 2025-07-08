@@ -61,11 +61,11 @@ According to `esr`, these are the core computer hacking programming languages:
 Whenever I need to create a new web app, CLI, script, or program, these are my
 _go-to` programming languages:
 
-- C
-- GDScript
+- [C](./langs/c.md)
+- [GDScript](./langs/gd.md)
 - [JavaScript](./langs/js.md)
 - [Python](./langs/py.md)
-- [TypeScript](#)
+- [TypeScript](./langs/ts.md)
 
 ## Open-Source Project Contributions
 
