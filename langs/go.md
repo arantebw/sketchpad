@@ -1,4 +1,4 @@
-# go
+# Go
 
 ```bash
 go build

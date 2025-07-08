@@ -1,4 +1,4 @@
-# python
+# Python
 
 Install all of the dependencies from the `requirements.txt` file.
 

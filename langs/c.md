@@ -1,4 +1,4 @@
-# C Programming
+# C
 
 `.clang-format` template:
 
