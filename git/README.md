@@ -1,5 +1,11 @@
 # git
 
+## Delete all local branches aside from `main`, `A`, and `B` branches
+
+```console
+> git branch | grep -vE 'main|A|B' | xargs git branch -D
+```
+
 ## Point `A` branch to `origin/main` from `B` branch
 
 Current:
