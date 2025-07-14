@@ -78,13 +78,13 @@ _go-to` programming languages:
 
 ## Others
 
-- [Useful IDE Features](./others/useful_ide_features.md)
+- [Chromium/Chrome](./chrome/README.md)
+- [DevTools Breakpoints](./css/README.md#break-points)
 - [Japanese Wisdom](./others/japanese_wisdom.md)
 - [My Neovim Setup](./others/my_neovim_setup.md)
-- [Software Engineering Tools](./others/software_engineering_tools.md)
+- [My How-To List](./howto/README.md)
 - [My Software Development Machines Setup](./others/my_machine_setup.md)
-- [My How-Tos List](./howto/README.md)
+- [Software Engineering Tools](./others/software_engineering_tools.md)
 - [`sr-only` Class](./css/README.md#sr-only)
-- [DevTools Breakpoints](./css/README.md#break-points)
-- [Chromium/Chrome](./chrome/README.md)
+- [Useful IDE Features](./others/useful_ide_features.md)
 
