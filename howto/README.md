@@ -7,4 +7,4 @@
 - [How to check the currently running processes on your machine?](./5.md)
 - [How to suspend, list, and resume a terminal session in Linux?](./6.md)
 - [How to switch the Python version currently used by `poetry`?](./7.md)
-- [How to a commit from `A` branch to `B` branch?](./8.md)
+- [How to move a commit from `A` branch to `B` branch?](./8.md)
