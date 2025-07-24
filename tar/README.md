@@ -1,5 +1,11 @@
 # tar
 
+Extract a `*.xz` archive.
+
+```console
+tar -xvf archive.tar.xz
+```
+
 Extract a `*.gz` archive.
 
 ```console
