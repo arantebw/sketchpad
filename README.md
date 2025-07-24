@@ -2,7 +2,7 @@
 
 A collection of personal and technical notes.
 
-## CLI Tools
+## Command-Line Tools
 
 - [bluetoothctl](./bluetoothctl/)
 - [df](./df/)
@@ -17,6 +17,7 @@ A collection of personal and technical notes.
 - [nvim](./nvim/README.md)
 - [shell](./shell/)
 - [systemctl](./systemctl/)
+- [tar](./tar/README.md)
 - [tlp](/tlp/README.md)
 - [tmux](./tmux/README.md)
 - [uptime](./uptime/)
