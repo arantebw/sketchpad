@@ -1,5 +1,14 @@
 # nvim
 
+Rename a variable and all of its usage in a project.
+
+> Move the cursor on the variable name you want to be renamed, type the new name,
+then hit enter.
+
+```text
+<leader>cr
+```
+
 Create a new file.
 
 ```text
