@@ -2,6 +2,12 @@
 
 A collection of personal and technical notes.
 
+## Cloud Computing
+
+### Azure
+
+- [Cosmos DB](/azure/cosmosdb.md)
+
 ## Command-Line Tools
 
 - [bluetoothctl](./bluetoothctl/)
