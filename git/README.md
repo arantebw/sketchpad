@@ -1,5 +1,12 @@
 # git
 
+Delete all untracked files.
+
+```bash
+git clean -n # check
+git clean -f # confirm delete
+```
+
 ## Delete all local branches aside from `main`, `A`, and `B` branches
 
 ```console
