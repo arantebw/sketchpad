@@ -1,5 +1,14 @@
 # Chromium or Google Chrome
 
+Navigate through the open tab(s).
+
+```text
+Ctrl + #
+```
+
+**NOTE:**
+- `#` is a number from `1,2,3,...`.
+
 Close the active tab.
 
 ```text
