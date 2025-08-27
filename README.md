@@ -78,7 +78,7 @@ _go-to` programming languages:
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Aarantebw+is%3Aclosed)
 
-### Useful Libraries
+## Useful Libraries
 
 - [usehooks-ts](https://github.com/juliencrn/usehooks-ts)
 - [react-cookie](https://github.com/bendotcodes/cookies)
@@ -95,3 +95,6 @@ _go-to` programming languages:
 - [`sr-only` Class](./css/README.md#sr-only)
 - [Useful IDE Features](./others/useful_ide_features.md)
 
+## Web Browsers
+
+- [Chromium or Google Chrome](web-browsers/chromium.md)
