@@ -1,5 +1,11 @@
 # Chromium or Google Chrome
 
+Close the active tab.
+
+```text
+Ctrl + w
+```
+
 Create a new tab.
 
 ```text
