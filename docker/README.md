@@ -241,6 +241,14 @@ Run a previously stopped container.
 docker start <container_name>
 ```
 
+## docker stats
+
+Run a live stream of resource usage of running containers.
+
+```bash
+docker stats
+```
+
 ## docker stop
 
 This command stops a running container by issuing a `SIGTERM` signal to the
