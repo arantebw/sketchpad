@@ -98,6 +98,7 @@ _go-to` programming languages:
 - [Software Engineering Tools](./others/software_engineering_tools.md)
 - [`sr-only` Class](./css/README.md#sr-only)
 - [Useful IDE Features](./others/useful_ide_features.md)
+- [My Apple MacBook Air M4 Setup](./others/apple_macbook_air_m4_setup.md)
 
 ## Web Browsers
 
