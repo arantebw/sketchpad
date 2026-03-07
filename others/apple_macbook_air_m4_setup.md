@@ -30,3 +30,13 @@ Install the `brew` package manager.
 
 References:
 - https://brew.sh/
+
+## `tmux`
+
+Install the `tmux` terminal multiplexer.
+
+```bash
+brew install tmux
+```
+
+Then follow the `dotfiles` command to create a symbolic link for the configuration.
