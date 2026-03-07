@@ -58,3 +58,5 @@ Install the `neovim` CLI-based text editor.
 ```bash
 brew install neovim
 ```
+
+Configure the `LazyVim` settings by cloning this repository `https://github.com/arantebw/nvim` to the `~/.config/` directory.
