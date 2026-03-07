@@ -48,3 +48,5 @@ Install the `oh-my-zsh` tool to enhance `zsh`.
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+
+Then follow the `dotfiles` command to create a symbolic link for the configuration.
