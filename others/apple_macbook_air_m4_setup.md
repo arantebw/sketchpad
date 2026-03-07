@@ -19,3 +19,14 @@ Copy the `SSH Config` content from the `Laptop Configs` folder from the Bitwarde
 ## `dotfiles`
 
 Clone and follow the instructions from this [repository](https://github.com/arantebw/dotfiles/tree/main).
+
+## `brew`
+
+Install the `brew` package manager.
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+References:
+- https://brew.sh/
