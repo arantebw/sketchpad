@@ -14,6 +14,8 @@ References:
 
 ## `ssh`
 
+Copy the `SSH Config` content from the `Laptop Configs` folder from the Bitwarden account.
+
 ## `dotfiles`
 
 Clone and follow the instructions from this [repository](https://github.com/arantebw/dotfiles/tree/main).
