@@ -1,5 +1,11 @@
 # MacOS
 
+Really quit the current open app.
+
+```text
+command + q
+```
+
 Fill the screen size of an open app.
 
 ```text
