@@ -43,7 +43,7 @@ Then follow the `dotfiles` command to create a symbolic link for the configurati
 
 ## Oh My Zsh
 
-Install the `oh-my-zsh`.
+Install the `oh-my-zsh` tool to enhance `zsh`.
 
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
