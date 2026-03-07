@@ -2,6 +2,10 @@
 
 A collection of personal and technical notes.
 
+## Keyboard Shortcuts
+
+- [MacOS](./macos/)
+
 ## Cloud Computing
 
 ### Azure
