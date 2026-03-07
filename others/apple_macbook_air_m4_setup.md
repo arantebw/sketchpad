@@ -50,3 +50,11 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 
 Then follow the `dotfiles` command to create a symbolic link for the configuration.
+
+## `neovim`
+
+Install the `neovim` CLI-based text editor.
+
+```bash
+brew install neovim
+```
