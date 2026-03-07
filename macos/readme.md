@@ -8,7 +8,7 @@ command + `-`
 command + 0
 ```
 
-Really quit the current open app.
+Force quit the current open app.
 
 ```text
 command + q
