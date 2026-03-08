@@ -1,5 +1,11 @@
 # MacOS
 
+Full screen mode the current window.
+
+```text
+control + command + f
+```
+
 Logout of the current session.
 
 ```text
