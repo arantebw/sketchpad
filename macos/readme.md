@@ -1,5 +1,11 @@
 # MacOS
 
+Logout of the current session.
+
+```text
+shift + command + q
+```
+
 Resize the terminal font sizes.
 
 ```text
