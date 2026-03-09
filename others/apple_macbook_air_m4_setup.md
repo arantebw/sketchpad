@@ -60,3 +60,12 @@ brew install neovim
 ```
 
 Configure the `LazyVim` settings by cloning this repository `https://github.com/arantebw/nvim` to the `~/.config/` directory.
+
+## `nvm`
+
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash
+```
+
+References:
+- [Installing and Updating](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
