@@ -1,5 +1,15 @@
 # kitty
 
+Reload the updated configuration settings.
+
+```text
+# linux
+ctrl + shift + f5
+
+# macos
+control + command + ,
+```
+
 Rename an open tab.
 
 ```text
