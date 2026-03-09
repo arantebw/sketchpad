@@ -69,3 +69,11 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash
 
 References:
 - [Installing and Updating](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
+
+## `uv`
+
+Install the `uv` Python package manager.
+
+```bash
+brew install uv
+```
