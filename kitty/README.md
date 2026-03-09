@@ -37,5 +37,9 @@ Ctrl + Shift + F11
 Open the `kitty` configuration file.
 
 ```text
+# linux
 Ctrl + Shift + F2
+
+# macos
+command + ,
 ```
