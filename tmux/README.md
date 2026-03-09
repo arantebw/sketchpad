@@ -1,5 +1,11 @@
 # tmux
 
+## Start `tmux` that bypasses your custom configs:
+
+```bash
+tmux -f /dev/null
+```
+
 ## kill-server
 
 It kills the current tmux server.
