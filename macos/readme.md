@@ -1,5 +1,11 @@
 # MacOS
 
+Show the screen capture tool.
+
+```text
+command + shift + 5
+```
+
 Create a selected area screenshot.
 
 ```text
