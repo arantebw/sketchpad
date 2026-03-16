@@ -1,5 +1,11 @@
 # MacOS
 
+Create a fullscreen screenshot.
+
+```text
+command + shift + 3
+```
+
 Full screen mode the current window.
 
 ```text
