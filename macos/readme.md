@@ -1,5 +1,11 @@
 # MacOS
 
+Create a selected area screenshot.
+
+```text
+command + shift + 4
+```
+
 Create a fullscreen screenshot.
 
 ```text
