@@ -1,5 +1,11 @@
 # tmux
 
+## Start a new `tmux` detached session:
+
+```bash
+tmux -f /dev/null new -s -d
+```
+
 ## Start `tmux` that bypasses your custom configs:
 
 ```bash
