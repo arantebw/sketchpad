@@ -3,7 +3,7 @@
 ## Start a new `tmux` detached session:
 
 ```bash
-tmux -f /dev/null new -s -d
+tmux -f /dev/null new -s <session_number> -d
 ```
 
 ## Start `tmux` that bypasses your custom configs:
